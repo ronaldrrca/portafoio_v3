@@ -1,4 +1,4 @@
-#services{
+#projects{
     /* background-color: var(--dark-blue); */
     /* display: grid; */
     grid-template-columns: repeat(3, 33.333%);
@@ -9,3 +9,14 @@
 #aboutMe_content_photo img{
     width: 20rem;
 }
+
+#contact_form form{
+    width: 45%;
+ } 
+
+ #contact_data{
+     width: 60%;
+     margin: 0 auto;
+     margin-bottom: 8rem;
+ }
+

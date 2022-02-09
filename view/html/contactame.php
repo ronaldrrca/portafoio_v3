@@ -18,72 +18,48 @@
     </header>
     <main>
             <h1>Contáctame</h1>
-            <section id="contact_form">
-                
-            </section>
-            <section id="myServices">
-                <p id="myServices_title">Mis servicios</p>
-                <h1>Desarrollo web responsivo</h1>
-                <div class="littleRedLine"></div>
-                <div id="services">
-                        <div class="service"> 
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                </div>
-            </section>
-            <section id="aboutMe">
-                    <h2>Sobre mi</h2>
-                    <p id="aboutMe_subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet veniam error reiciendis ea soluta provident molestiae mollitia sit facilis quaerat minima, ex ducimus consectetur iure libero consequuntur, repellat natus enim?</p>
-                    <div class="littleRedLine"></div>
-                    <div id="aboutMe_content">
-                        <figure id="aboutMe_content_photo">
-                                <img src="../assets/images/Sin título-1.png" alt="">
-                        </figure>
-                        <div id="aboutMe_content_info">
-                            <h2>Hola</h2>
-                            <p id="aboutMe_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem temporibus ut unde reprehenderit officia atque vel commodi id. Nisi quis atque, amet magnam nesciunt earum. Odio sunt laborum maiores beatae!</p>
-                            <div id="aboutMe_contactData">
-                                <div>
-                                    <p class="contactData_redLetter">Nombre:</p>
-                                    <p class="contactData_whiteLetter">Ronald Rodríguez Campillo</p>
-                                </div>
-                                <div>
-                                    <p class="contactData_redLetter">Teléfono:</p>
-                                    <p class="contactData_whiteLetter">+57 3003581311</p>
-                                </div>
-                                <div>
-                                    <p class="contactData_redLetter">Email:</p>
-                                    <p class="contactData_whiteLetter">ronaldrrca@gmail.com</p>
-                                </div>
-                                <div>
-                                    <p class="contactData_redLetter">Linkedin:</p>
-                                    <p class="contactData_whiteLetter">jhgugiebwecj</p>
-                                </div>
-                            </div>
+            <div id="contact_content">
+                    <section id="contact_data">
+                        <div>
+                            <p class="contactData_redLetter">Nombre:</p>
+                            <p class="contactData_whiteLetter">Ronald Rodríguez Campillo</p>
                         </div>
-                    </div>
-            </section>
+                        <div>
+                            <p class="contactData_redLetter">Teléfono:</p>
+                            <p class="contactData_whiteLetter">+57 3003581311</p>
+                        </div>
+                        <div>
+                            <p class="contactData_redLetter">Email:</p>
+                            <p class="contactData_whiteLetter">ronaldrrca@gmail.com</p>
+                        </div>
+                        <div>
+                            <p class="contactData_redLetter">Linkedin:</p>
+                            <p class="contactData_whiteLetter">jhgugiebwecj</p>
+                        <div>
+                              
+                    </section>
+                    <section id="contact_form">
+                            <h2>Envía un mensaje</h2>
+                            <form action="#">
+                                <label for="name">Nombre*</label>
+                                <input type="text" required autofocus>
+                                <label for="celphone">Teléfono Celular*</label>
+                                <input type="tel" required>
+                                <label for="phone">Teléfono fijo</label>
+                                <input type="tel">
+                                <label for="email">Email*</label>
+                                <input type="email" required>
+                                <label for="subject">Asunto*</label>
+                                <input type="text" required>
+                                <label for="message">Mensaje*</label>
+                                <textarea name="" id="" cols="30" rows="10" required placeholder="Escriba aquí su mensaje"></textarea>
+                                <p id="required_field">*Campo requerido</p>
+                                <input type="submit" value="Enviar mensaje">
+                            </form>
+                    </section>
+            </div>
+            
+            
     </main>
     <footer>
 

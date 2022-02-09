@@ -24,11 +24,11 @@
     height: auto;
 }
 
-#myServices h1{
+#myProjects h1{
     text-align: center;
 }
 
-#services{
+#projects{
     width: 70%;
 }
 
@@ -64,4 +64,15 @@
 #aboutMe_contactData{
     grid-template-columns: 55% 45%;
     grid-template-rows: repeat(2, auto);
+}
+
+#contact_form form{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#contact_data{
+    grid-template-columns: auto auto;
+    grid-template-rows: repeat(2, auto);
+    justify-content: space-around;
 }

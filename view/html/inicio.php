@@ -35,34 +35,34 @@
                     <button id="briefcase_button">Mi Portafolio</button>
                 </div>
             </section>
-            <section id="myServices">
-                <p id="myServices_title">Mis servicios</p>
+            <section id="myProjects">
+                <p id="myProjects_title">Proyectos recientes</p>
                 <h1>Desarrollo web responsivo</h1>
                 <div class="littleRedLine"></div>
-                <div id="services">
-                        <div class="service"> 
+                <div id="projects">
+                        <div class="project"> 
                             <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
+                            <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
+                        <div class="project">
                             <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
+                            <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
+                        <div class="project">
                             <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
+                            <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
+                        <div class="project">
                             <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
+                            <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
+                        <div class="project">
                             <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
+                            <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="service">
+                        <div class="project">
                             <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título servicio</h3>
+                            <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
                 </div>
             </section>

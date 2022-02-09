@@ -46,8 +46,13 @@ header{
     width: 30rem;
 }
 
-#services{
+#projects{
     grid-template-columns: repeat(2, 50%);
     grid-template-rows: repeat(3, auto);
 }
+
+/*Main contact styles*/
+#contact_form form{
+    width: 70%;
+ } 
 

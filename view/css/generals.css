@@ -158,7 +158,7 @@ main{
     color: #ffffff;
 }
 
-#myServices{
+#myProjects{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -169,7 +169,7 @@ main{
     padding: 5rem 1rem;
 }
 
-#myServices_title, h2{
+#myProjects_title, h2{
     display: inline-block;
     width: 100%;
     margin-bottom: 2rem;
@@ -178,12 +178,13 @@ main{
     color: #ffffff;
 }
     
-#myServices h1{
+#myProjects h1{
     width: 100%;
     margin-bottom: 2rem;
     text-align: left;
     font-size: 2rem;
     line-height: 1.8rem;
+    background-color: var(--dark-blue);
     color: #ffffff;
 }
 
@@ -194,7 +195,7 @@ main{
     margin-bottom: 3rem;
 }
 
-#services{
+#projects{
     width: 100%;
     background-color: var(--dark-blue);
     display: grid;
@@ -203,28 +204,28 @@ main{
     grid-gap: 2rem;
 }
 
-.service img{
+.project img{
     width: 3rem;
     margin-bottom: 1rem;
 }
 
-#services > div{
+#projects > div{
     padding: 3rem 2rem;
     background-color: var(--light-blue);
 }
 
-#services h3, #services p{
+#projects h3, #projects p{
     color: #ffffff;
 }
 
 
 
-.service h3{
+.project h3{
     font-size: 1.6rem;
     margin-bottom: 1rem;
 }
 
-.service p{
+.project p{
     font-size: 1.4rem;
     line-height: 1.8rem;
 }
@@ -286,3 +287,95 @@ main{
     grid-template-rows: repeat(4, auto);
     grid-gap: 2rem
 }
+
+
+/*Main contactame styles*/
+h1{
+    text-align: center;
+    background-color: var(--light-blue);
+    padding: 5rem 0 3rem 0;
+    color: #ffffff;
+} 
+
+#contact_content{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--light-blue);
+}
+
+#contact_data{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(4, auto);
+    grid-gap: 2rem;
+    background-color: var(--light-blue);
+    padding: 0 1rem;
+}
+
+#contact_form{
+    background-color: var(--light-blue);
+    padding: 5rem 1rem;
+}
+
+#contact_form form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 1rem;
+    border-radius: 2rem;
+    background-color: var(--dark-blue);
+}
+
+label{
+    width: 100%;
+    font-size: 1.4rem;
+    margin-bottom: 0.4rem;
+    color: #ffffff;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="email"]
+{
+    width: 100%;
+    height: 3rem;
+    margin-bottom: 2rem;
+    padding-left: 0.5rem;
+    font-size: 1.4rem;
+}
+
+input[type="text"]:focus, 
+input[type="email"]:focus,
+input[type="tel"]:focus
+{
+    background-color: var(--dark-blue);
+    color: #ffffff;
+}
+
+textarea{
+    width: 100%;
+    resize: none;
+    font-size: 1.6rem;
+    padding: 0.5rem;
+}
+
+#required_field{
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+#contact_form input[type="submit"]{
+    /* width: 10rem; */
+    padding: 1rem;
+    margin-top: 5rem;
+    border-radius: 2rem;
+    background-color: var(--light-blue);
+    border: 1px solid #ff0000;
+    outline: #ffffff solid 1px;
+    color: #ffffff;
+}
+
