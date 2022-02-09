@@ -30,3 +30,18 @@ header{
 #horizontal_menu a li:hover{
     color: cadetblue;
 }
+
+/*Main start styles*/
+
+
+#introducingMyself{
+ justify-content: center;
+}
+
+#introducingMyself_info{
+    margin-right: 8rem;
+}
+
+#introducingMyself_photo img{
+    width: 30rem;
+}

@@ -1,0 +1,25 @@
+#introducingMyself{
+    flex-direction: row;
+    justify-content: center;
+}
+
+#introducingMyself_info{
+    width: auto;
+    margin-right: 4rem;
+}
+
+#introducingMyself_photo{
+    width: auto;
+   
+}
+
+#introducingMyself_photo{
+    order: 2;
+    height: 100%;
+    align-items: flex-end;
+}
+
+#introducingMyself_photo img{
+    width: 25rem;
+    height: auto;
+}
