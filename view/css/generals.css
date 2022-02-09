@@ -50,3 +50,45 @@ main{
     margin-top: 6rem;
 }
 
+
+/*Header styles*/
+#header_myBriefcase{
+    font-size: 1.8rem;
+}
+
+#horizontal_menu{
+    display: none;
+}
+
+#menu_icon{
+    width: 4.4rem;
+}
+
+#dropDown_menu{
+    position: absolute;
+    top: 45px;
+    right: 0;
+    display: none;
+    width: 18rem;
+    background-color: #ff0000;
+}
+
+#dropDown_menu a{
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    border-bottom: 1px solid #fff;
+}
+
+#dropDown_menu a:last-child{
+    border: 0;
+}
+
+#dropDown_menu a li{
+    list-style: none;
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    font-size: 1.6rem;
+}
+
+

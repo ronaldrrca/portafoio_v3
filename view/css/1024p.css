@@ -1,0 +1,32 @@
+/*Styles min 1024p*/
+
+/*Header styles*/
+header{
+    justify-content: space-around;
+}
+
+#menu_icon{
+    display: none;
+}
+
+#horizontal_menu{
+    display: block;
+}
+
+#horizontal_menu a{
+    text-decoration: none;
+}
+
+#horizontal_menu a li{
+    display: inline-block;
+    list-style: none;
+    font-size: 1.4rem;
+    color: #ffffff;
+    padding: 0.5rem;
+    margin-left: 1rem;
+    letter-spacing: 0.2rem;
+}
+
+#horizontal_menu a li:hover{
+    color: cadetblue;
+}
