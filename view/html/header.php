@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/generals.css">
     <link rel="stylesheet" href="../css/768p.css" media="screen and (min-width: 768px)">
     <link rel="stylesheet" href="../css/1024p.css" media="screen and (min-width: 1024px)">
-    <!-- <link rel="stylesheet" href="1300p.css" media="screen and (min-width: 1300px)"> -->
+    <link rel="stylesheet" href="../css/1300p.css" media="screen and (min-width: 1300px)">
     <!-- <link rel="stylesheet" href="../css/1500p.css" media="screen and (min-width: 1500px)"> -->
 </head>
 <body>

@@ -45,3 +45,9 @@ header{
 #introducingMyself_photo img{
     width: 30rem;
 }
+
+#services{
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(3, auto);
+}
+

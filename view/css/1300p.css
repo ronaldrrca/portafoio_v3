@@ -1,0 +1,11 @@
+#services{
+    /* background-color: var(--dark-blue); */
+    /* display: grid; */
+    grid-template-columns: repeat(3, 33.333%);
+    grid-template-rows: repeat(2, auto);
+    /* grid-gap: 2rem; */
+}
+
+#aboutMe_content_photo img{
+    width: 20rem;
+}

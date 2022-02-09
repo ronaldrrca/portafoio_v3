@@ -17,23 +17,9 @@
             <?php include 'header.php'?>
     </header>
     <main>
-            <section id="introducingMyself">
-                <figure id="introducingMyself_photo">
-                        <img src="../assets/images/Sin título-1.png" alt="">
-                </figure>
-                <div id="introducingMyself_info">
-                    <div id="introducingMyself_info_socialMediaIcons">
-                        <img src="../assets/icons/linkedin_icon.svg" alt="icono de linkedin">
-                        <img src="../assets/icons/github_icon.svg" alt="icono de github">
-                        <img src="../assets/icons/instagram_icon.svg" alt="icono de instagram">
-                        <img src="../assets/icons/twitter_icon.svg" alt="icono de twitter">
-                        <img src="../assets/icons/facebook_icon.svg" alt="icono de facebook">
-                    </div>
-                    <p id="introducingMyself_info_name">Ronald Rodríguez Campillo</p>
-                    <p class="introducingMyself_info_text">Tecnólogo en Análisis y Desarrollo de Sistemas de Información</p>
-                    <p class="introducingMyself_info_text">Desarrollador web</p>
-                    <button id="briefcase_button">Mi Portafolio</button>
-                </div>
+            <h1>Contáctame</h1>
+            <section id="contact_form">
+                
             </section>
             <section id="myServices">
                 <p id="myServices_title">Mis servicios</p>

@@ -97,7 +97,7 @@ main{
     height: auto;
     display: flex;
     flex-direction: column;
-    padding: 5rem 1rem 5rem 1rem;
+    padding: 5rem 1rem;
     background-color: var(--light-blue);
 }
 
@@ -119,6 +119,10 @@ main{
 }
 
 #introducingMyself_photo img{
+    width: 40%;
+}
+
+#aboutMe_content_photo img{
     width: 40%;
 }
 
@@ -154,4 +158,131 @@ main{
     color: #ffffff;
 }
 
+#myServices{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--dark-blue);
+    width: 100%;
+    height: auto;
+    min-height: 10rem;
+    padding: 5rem 1rem;
+}
 
+#myServices_title, h2{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 1.6rem;
+    color: #ffffff;
+}
+    
+#myServices h1{
+    width: 100%;
+    margin-bottom: 2rem;
+    text-align: left;
+    font-size: 2rem;
+    line-height: 1.8rem;
+    color: #ffffff;
+}
+
+.littleRedLine{
+    width: 3rem;
+    height: 1rem;
+    background-color: #ff0000;
+    margin-bottom: 3rem;
+}
+
+#services{
+    width: 100%;
+    background-color: var(--dark-blue);
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(6, auto);
+    grid-gap: 2rem;
+}
+
+.service img{
+    width: 3rem;
+    margin-bottom: 1rem;
+}
+
+#services > div{
+    padding: 3rem 2rem;
+    background-color: var(--light-blue);
+}
+
+#services h3, #services p{
+    color: #ffffff;
+}
+
+
+
+.service h3{
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+
+.service p{
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+}
+
+#aboutMe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--light-blue);
+    width: 100%;
+    height: auto;
+    min-height: 10rem;
+    padding: 5rem 1rem;
+}
+
+#aboutMe_content{
+    display: flex;
+    flex-direction: column;
+}
+
+#aboutMe_text, #aboutMe_subtitle{
+    display: inline-block;
+    width: 100%;
+    /* padding: 0 1rem 0 1rem; */
+    font-size: 1.4rem;
+    color: #ffffff;
+    margin-bottom: 2rem;
+}
+
+#aboutMe_subtitle{
+    max-width: 40rem;
+}
+
+#aboutMe_content_photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#aboutMe_content_info{
+    padding-top: 3rem;
+}
+
+.contactData_redLetter, .contactData_whiteLetter{
+    font-size: 1.4rem;
+}
+
+.contactData_redLetter{
+    color: #ff0000;
+}
+
+.contactData_whiteLetter{
+    color: #ffffff;
+}
+
+#aboutMe_contactData{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(4, auto);
+    grid-gap: 2rem
+}

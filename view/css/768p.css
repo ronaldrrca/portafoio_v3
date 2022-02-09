@@ -23,3 +23,45 @@
     width: 25rem;
     height: auto;
 }
+
+#myServices h1{
+    text-align: center;
+}
+
+#services{
+    width: 70%;
+}
+
+
+#aboutMe_subtitle{
+    text-align: center;
+}
+
+#aboutMe_content{
+    justify-content: center;
+    flex-direction: row;
+}
+
+#introducingMyself_photo img{
+    width: 21.4rem;
+}
+
+#aboutMe_content_photo img{
+    width: 18rem;
+}
+
+
+
+#aboutMe_content_info{
+    width: 45%;
+    margin-left: 5rem;
+}
+
+#aboutMe_content_info h2{
+    text-align: left;
+}
+
+#aboutMe_contactData{
+    grid-template-columns: 55% 45%;
+    grid-template-rows: repeat(2, auto);
+}
