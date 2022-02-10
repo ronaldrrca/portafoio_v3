@@ -20,3 +20,37 @@
      margin-bottom: 8rem;
  }
 
+ #services_container{
+     flex-direction: row;
+     padding-bottom: 6rem;
+     justify-content: center;
+ }
+
+ #services_image{
+     width: 35%;
+     margin-bottom: 0;
+  
+}
+
+ #services_image img{
+    width: 100%;
+}
+
+#services_image figcaption{
+    width: 100%;
+}
+
+#services_container{
+    align-items: center;
+    justify-content: center;
+ }
+
+#services_content{
+    justify-content: space-around;
+    width: auto;
+    padding-bottom: 0;
+    padding-left: 1rem;
+    
+}
+
+

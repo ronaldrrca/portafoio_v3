@@ -76,3 +76,30 @@
     grid-template-rows: repeat(2, auto);
     justify-content: space-around;
 }
+
+#services_content{
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 3rem;
+}
+
+#services_products_section, #services_otherServices_section{
+    width: 45%;
+    background-color: var(--dark-blue);
+}
+
+#services_image img{
+    width: 80%;
+    box-shadow:white 1px 1px 5px;
+}
+
+#services_image{
+    width: 80%;
+    
+}
+
+#services_image figcaption{
+    width: 80%;
+    padding-left: 0;
+}

@@ -18,7 +18,7 @@
     </header>
     <main>
             <h1>Contáctame</h1>
-            <div id="contact_content">
+            <div id="contact_container">
                     <section id="contact_data">
                         <div>
                             <p class="contactData_redLetter">Nombre:</p>
@@ -58,11 +58,9 @@
                             </form>
                     </section>
             </div>
-            
-            
     </main>
     <footer>
-
+            <?php include 'footer.php' ?>
     </footer>
     <script src="../js/header.js"></script>
 </body>

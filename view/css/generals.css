@@ -50,6 +50,22 @@ main{
     margin-top: 6rem;
 }
 
+footer{
+    grid-area: footer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+    background-color: var(--dark-blue);
+    color: #ffffff;
+    font-size: 1.2rem;
+}
+
+footer p{
+    margin: 0.3rem 0;
+}
+
 
 /*Header styles*/
 #header_myBriefcase{
@@ -218,8 +234,6 @@ main{
     color: #ffffff;
 }
 
-
-
 .project h3{
     font-size: 1.6rem;
     margin-bottom: 1rem;
@@ -297,7 +311,7 @@ h1{
     color: #ffffff;
 } 
 
-#contact_content{
+#contact_container{
     display: flex;
     flex-direction: column;
     background-color: var(--light-blue);
@@ -370,12 +384,75 @@ textarea{
 
 #contact_form input[type="submit"]{
     /* width: 10rem; */
-    padding: 1rem;
+    padding: 1rem 2rem;
     margin-top: 5rem;
     border-radius: 2rem;
     background-color: var(--light-blue);
     border: 1px solid #ff0000;
     outline: #ffffff solid 1px;
     color: #ffffff;
+    font-size: 1.6rem;
+}
+
+#services_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: var(--light-blue);
+    /* margin-bottom: 3rem; */
+}
+
+#services_image img{
+    width: 100%;
+}
+
+#services_image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+
+#services_image figcaption{
+    color: #ffffff;
+    padding: 0.5rem 0 0 0.5rem;
+    width: 100%;
+}
+
+
+#services_content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#services_content p{
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+    font-weight: bold;
+    font-size: 1.4rem;
+    color: #ffffff;
+    
+}
+
+#services_content #products, #services_content #other_services{
+    padding-left: 2rem;
+    
+}
+
+#services_products_section, #services_otherServices_section{
+    padding: 2rem 0;
+}
+
+#products li, #other_services li{
+    margin-bottom: 1rem;
+    font-size: 1.4rem;
+    color: #ffffff;
+}
+
+#products{
+    margin-bottom: 5rem;
 }
 

@@ -41,27 +41,27 @@
                 <div class="littleRedLine"></div>
                 <div id="projects">
                         <div class="project"> 
-                            <img src="../assets/icons/github_icon.svg" alt="">
+                            <img src="../assets/icons/project_icon.svg" alt="">
+                            <h3>Mi Portafolio</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                        <div class="project">
+                            <img src="../assets/icons/project_icon.svg" alt="">
+                            <h3>Web App piloto "Diagnóstico de innnovación empresarial"</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                        <div class="project">
+                            <img src="../assets/icons/project_icon.svg" alt="">
+                            <h3>Ecoculture - Landing page</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                        <div class="project">
+                            <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
                         <div class="project">
-                            <img src="../assets/icons/github_icon.svg" alt="">
+                            <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
                         <div class="project">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título proyecto</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="project">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título proyecto</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="project">
-                            <img src="../assets/icons/github_icon.svg" alt="">
-                            <h3>Título proyecto</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
-                        <div class="project">
-                            <img src="../assets/icons/github_icon.svg" alt="">
+                            <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Título proyecto</h3>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
                 </div>

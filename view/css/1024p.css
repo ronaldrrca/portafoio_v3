@@ -56,3 +56,12 @@ header{
     width: 70%;
  } 
 
+
+ #services_image img{
+    width: 60%;
+}
+
+#services_image figcaption{
+    width: 60%;
+}
+
