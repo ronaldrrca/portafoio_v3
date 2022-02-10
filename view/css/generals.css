@@ -40,6 +40,7 @@ header{
     height: auto;
     min-height: 6rem;
     color: #ffffff;
+    z-index: 10;
 }
 
 main{
@@ -188,7 +189,7 @@ footer p{
 #myProjects_title, h2{
     display: inline-block;
     width: 100%;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     text-align: center;
     font-size: 1.6rem;
     color: #ffffff;
@@ -199,13 +200,14 @@ footer p{
     margin-bottom: 2rem;
     text-align: left;
     font-size: 2rem;
-    line-height: 1.8rem;
+    line-height: 2.3rem;
+    max-width: 40rem;
     background-color: var(--dark-blue);
     color: #ffffff;
 }
 
 .littleRedLine{
-    width: 3rem;
+    width: 5rem;
     height: 1rem;
     background-color: #ff0000;
     margin-bottom: 3rem;
@@ -300,6 +302,11 @@ footer p{
     grid-template-columns: 100%;
     grid-template-rows: repeat(4, auto);
     grid-gap: 2rem
+}
+
+#aboutMe a{
+    font-size: 1.4rem;
+    color: #ffffff;
 }
 
 
@@ -446,13 +453,129 @@ textarea{
     padding: 2rem 0;
 }
 
+#services_content h2{
+    text-align: left;
+    padding: 1rem;
+}
+
 #products li, #other_services li{
     margin-bottom: 1rem;
     font-size: 1.4rem;
     color: #ffffff;
 }
 
-#products{
-    margin-bottom: 5rem;
+
+#skills_container{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(7, auto);
+    grid-gap: 3rem;
+    width: 100%;
+    height: auto;
+    min-height: 20rem;
+    padding: 1rem 1rem 6rem 1rem;
+    background-color: var(--light-blue);
 }
 
+.skills_card{
+    width: 100%;
+    height: auto;
+    min-height: 15rem;
+    padding: 3rem 1rem;
+    /* margin-bottom: 3rem; */
+    font-size: 1.4rem;
+    color: #ffffff;
+    background-color: var(--dark-blue);
+}
+
+.skills_card h2{
+    text-align: left;
+    color: red;
+}
+
+#drgrees_tittle::before {
+    content:url('../assets//icons//school_white_24dp.svg'); 
+    position: relative;  
+    display: block;
+    float: left;
+    margin-right: 1rem;
+    top: -3px;
+}
+
+#languages_tittle::before{
+    content:url('../assets/icons/language_white_24dp.svg');
+    position: relative;
+    display: block;
+    float: left;
+    margin-right: 1rem;
+    top: -3px;
+}
+
+#interests_tittle::before{
+    content:url('../assets/icons/interests_white_24dp.svg');
+    position: relative;
+    display: block;
+    float: left;
+    margin-right: 1rem;
+    top: -3px;
+}
+
+#programming_languages_tittle::before{
+    content:url('../assets/icons/code_white_24dp.svg');
+    position: relative;
+    display: block;
+    float: left;
+    margin-right: 1rem;
+    top: -3px;
+}
+
+#other_knowledges_tittle::before{
+    content:url('../assets/icons/knowledge_white_24dp.svg');
+    position: relative;
+    display: block;
+    float: left;
+    margin-right: 1rem;
+    top: -3px;
+}
+
+#skills_tittle::before{
+    content:url('../assets/icons/skills_24dp.svg');
+    position: relative;
+    display: block;
+    float: left;
+    margin-right: 1rem;
+    top: -3px;
+}
+
+#hobbies_tittle::before{
+    content:url('../assets/icons/hobbies_white_24dp.svg');
+    position: relative;
+    display: block;
+    float: left;
+    margin-right: 1rem;
+    top: -3px;
+}
+
+#programming_languages ul{
+    margin-left: 1rem;
+}
+
+#other_knowledges ul{
+    margin-left: 1rem;
+}
+
+#skills ul{
+    margin-left: 1rem;
+}
+
+#hobbies ul{
+    margin-left: 1rem;
+}
+
+#interests ul{
+    margin-left: 1rem;
+}
+
+#skills_container li{
+    line-height: 3rem;
+}

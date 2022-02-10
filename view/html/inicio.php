@@ -37,7 +37,7 @@
             </section>
             <section id="myProjects">
                 <p id="myProjects_title">Proyectos recientes</p>
-                <h1>Desarrollo web responsivo</h1>
+                <h1>Desarrollo web responsivo, landing pages, páginas, sitios y aplicaciones web</h1>
                 <div class="littleRedLine"></div>
                 <div id="projects">
                         <div class="project"> 
@@ -100,7 +100,7 @@
             </section>
     </main>
     <footer>
-
+            <?php include 'footer.php' ?>
     </footer>
     <script src="../js/header.js"></script>
 </body>

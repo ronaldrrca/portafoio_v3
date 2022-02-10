@@ -25,7 +25,7 @@
                     </figure>
                     <div id="services_content">
                         <div id="services_products_section">
-                            <p>Ofrezco mis servicios profesionales en el desarrollo de los siguientes productos:</p>
+                            <h2>Ofrezco mis servicios profesionales en el desarrollo de los siguientes productos:</h2>
                             <ul id="products">
                                 <li>Landing pages</li>
                                 <li>Páginas web</li>
@@ -34,7 +34,7 @@
                             </ul>
                         </div>
                         <div id="services_otherServices_section">
-                            <p>Otros servicios:</p>
+                            <h2>Otros servicios:</h2>
                             <ul id="other_services">
                                 <li>Adquisición de hosting y dominios</li>
                                 <li>Despliegue de productos</li>
