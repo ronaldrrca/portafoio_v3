@@ -71,3 +71,14 @@
     grid-template-rows: auto;
 }
 
+#briefcase_button, 
+input[type="submit"]{
+    cursor: pointer;
+}
+
+#briefcase_button:hover,
+input[type="submit"]:hover{
+    transform: scale(1.05);
+    transition: all 0.3s;
+}
+

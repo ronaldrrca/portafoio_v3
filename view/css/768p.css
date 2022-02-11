@@ -110,7 +110,28 @@
 }
 
 .skills_card{
-    
     padding-left: 3rem;
-    
 }
+
+#briefcase_container figure{
+    grid-template-columns: repeat(3, 30%);
+    grid-template-rows: repeat(2, auto);
+    grid-gap: 3rem;
+    justify-content: center;
+}
+
+.briefcase_project h3, #link_repo{
+    width: fit-content;
+}
+
+.float_left h3, .float_left p{
+    width: fit-content;
+    margin: 0%;
+}
+
+.float_left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+

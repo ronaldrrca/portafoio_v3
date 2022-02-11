@@ -579,3 +579,73 @@ textarea{
 #skills_container li{
     line-height: 3rem;
 }
+
+#briefcase_container{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(3, auto);
+    grid-gap: 3rem;
+    width: 100%;
+    height: auto;
+    min-height: 20rem;
+    padding: 1rem 1rem 6rem 1rem;
+    background-color: var(--light-blue);
+}
+
+.briefcase_project{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    min-height: 5rem;
+    padding: 2rem 0;
+    background-color: var(--dark-blue);
+}
+
+#briefcase_container figure{
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(3, auto);
+    grid-gap: 3rem;
+}
+
+.briefcase_project figure img{
+    width: 100%;
+}
+
+.briefcase_project h3, .briefcase_project p{
+    color: #ffffff;
+    padding-left: 1rem;
+}
+
+.briefcase_project p{
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+    margin-bottom: 1.5rem;
+    padding-right: 1rem;
+}
+
+.briefcase_project h3{
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem 0;
+}
+
+
+
+.briefcase_project a{
+    font-size: 1.3rem;
+    color: #ffffff;
+    padding-left: 1rem;
+}
+
+#link_repo{
+    display: inline-block;
+    margin-bottom: 2rem;
+}
+
+.see_more{
+    font-size: 1.3rem;
+    color: #ff0000;
+}

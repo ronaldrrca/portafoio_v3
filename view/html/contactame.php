@@ -43,7 +43,7 @@
                             <form action="#">
                                 <label for="name">Nombre*</label>
                                 <input type="text" required autofocus>
-                                <label for="celphone">Teléfono Celular*</label>
+                                <label for="celphone">Teléfono Móvil*</label>
                                 <input type="tel" required>
                                 <label for="phone">Teléfono fijo</label>
                                 <input type="tel">

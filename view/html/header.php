@@ -17,7 +17,7 @@
         <a href="inicio.php"><li>Inicio</li></a>
         <a href="servicios.php"><li>Servicios</li></a>
         <a href="habilidades.php"><li>Habilidades</li></a>
-        <a href="#"><li>Portafolio</li></a>
+        <a href="portafolio.php"><li>Portafolio</li></a>
         <a href="#"><li>Blog</li></a>
         <a href="contactame.php"><li>Contáctame</li></a>
     </ul>
@@ -26,7 +26,7 @@
         <a href="inicio.php"><li>Inicio</li></a>
         <a href="servicios.php"><li>Servicios</li></a>
         <a href="habilidades.php"><li>Habilidades</li></a>
-        <a href="#"><li>Portafolio</li></a>
+        <a href="portafolio.php"><li>Portafolio</li></a>
         <a href="#"><li>Blog</li></a>
         <a href="contactame.php"><li>Contáctame</li></a>
     </ul>

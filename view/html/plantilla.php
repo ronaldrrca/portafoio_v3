@@ -17,6 +17,8 @@
             <?php include 'header.php'?>
     </header>
     <main>
+        <h1>Título de la página</h1>
+        <div id="xxx_container"></div>
             
     </main>
     <footer>

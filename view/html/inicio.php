@@ -23,11 +23,11 @@
                 </figure>
                 <div id="introducingMyself_info">
                     <div id="introducingMyself_info_socialMediaIcons">
-                        <img src="../assets/icons/linkedin_icon.svg" alt="icono de linkedin">
-                        <img src="../assets/icons/github_icon.svg" alt="icono de github">
-                        <img src="../assets/icons/instagram_icon.svg" alt="icono de instagram">
-                        <img src="../assets/icons/twitter_icon.svg" alt="icono de twitter">
-                        <img src="../assets/icons/facebook_icon.svg" alt="icono de facebook">
+                        <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank"><img src="../assets/icons/linkedin_icon.svg" alt="icono de linkedin"></a>
+                        <a href="https://github.com/ronaldrrca" target="_blank"><img src="../assets/icons/github_icon.svg" alt="icono de github"></a>
+                        <a href="" target="_blank"><img src="../assets/icons/instagram_icon.svg" alt="icono de instagram"></a>
+                        <a href="https://twitter.com/ronaldrrca?s=03" target="_blank"><img src="../assets/icons/twitter_icon.svg" alt="icono de twitter"></a>
+                        <a href="" target="_blank"><img src="../assets/icons/facebook_icon.svg" alt="icono de facebook"></a>
                     </div>
                     <p id="introducingMyself_info_name">Ronald Rodríguez Campillo</p>
                     <p class="introducingMyself_info_text">Tecnólogo en Análisis y Desarrollo de Sistemas de Información</p>
@@ -43,27 +43,47 @@
                         <div class="project"> 
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Mi Portafolio</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                            <p>
+                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis 
+                                eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>Web App piloto "Diagnóstico de innnovación empresarial"</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                            <h3>App piloto Innova ET"</h3>
+                            <p>
+                                Web App para diagnóstico de innovación empresarial. Consta de 2 diagnósticos (inicial y final), que generan el resultado del estado de la empresa,
+                                con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Ecoculture - Landing page</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                            <p>
+                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Título proyecto</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                            <p>
+                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Título proyecto</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                            <p>
+                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Título proyecto</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.</p></div>
+                            <p>
+                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                 </div>
             </section>
             <section id="aboutMe">
@@ -92,7 +112,7 @@
                                 </div>
                                 <div>
                                     <p class="contactData_redLetter">Linkedin:</p>
-                                    <p class="contactData_whiteLetter">jhgugiebwecj</p>
+                                    <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">linkedin.com/in/ronald-rodríguez-campillo-66b12771</a>
                                 </div>
                             </div>
                         </div>
