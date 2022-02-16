@@ -40,6 +40,14 @@
                 <h1>Desarrollo web responsivo, landing pages, páginas, sitios y aplicaciones web</h1>
                 <div class="littleRedLine"></div>
                 <div id="projects">
+                        <div class="project">
+                            <img src="../assets/icons/project_icon.svg" alt="">
+                            <h3>Memory Game</h3>
+                            <p>
+                                Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 
+                                funciones porteriormente<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                         <div class="project"> 
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Mi Portafolio</h3>
@@ -50,7 +58,7 @@
                         </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>App piloto Innova ET"</h3>
+                            <h3>App piloto Innova ET</h3>
                             <p>
                                 Web App para diagnóstico de innovación empresarial. Consta de 2 diagnósticos (inicial y final), que generan el resultado del estado de la empresa,
                                 con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
@@ -59,13 +67,6 @@
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Ecoculture - Landing page</h3>
-                            <p>
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
-                            </p>
-                        </div>
-                        <div class="project">
-                            <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>Título proyecto</h3>
                             <p>
                                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>

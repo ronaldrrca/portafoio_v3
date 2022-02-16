@@ -34,27 +34,30 @@
                         </div>
                         <div>
                             <p class="contactData_redLetter">Linkedin:</p>
-                            <p class="contactData_whiteLetter">jhgugiebwecj</p>
+                            <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">
+                                <p class="contactData_whiteLetter">ronald-rodríguez-campillo-66b12771</p>
+                            </a>
+                            
                         <div>
                               
                     </section>
                     <section id="contact_form">
                             <h2>Envía un mensaje</h2>
-                            <form action="#">
+                            <form action="../../controler/enviar_mail.php" method="POST">
                                 <label for="name">Nombre*</label>
-                                <input type="text" required autofocus>
-                                <label for="celphone">Teléfono Móvil*</label>
-                                <input type="tel" required>
+                                <input type="text" id="name" class="placeholder_red" name="name" required autofocus>
+                                <label for="cellphone">Teléfono Móvil*</label>
+                                <input type="tel" id="cellphone" class="placeholder_red" name="cellphone" required>
                                 <label for="phone">Teléfono fijo</label>
-                                <input type="tel">
+                                <input type="tel" id="phone" class="placeholder_red" name="phone">
                                 <label for="email">Email*</label>
-                                <input type="email" required>
+                                <input type="email" id="email" class="placeholder_red" name="email" required>
                                 <label for="subject">Asunto*</label>
-                                <input type="text" required>
+                                <input type="text" id="subject" class="placeholder_red" name="subject" required>
                                 <label for="message">Mensaje*</label>
-                                <textarea name="" id="" cols="30" rows="10" required placeholder="Escriba aquí su mensaje"></textarea>
+                                <textarea id="message" name="message" cols="30" rows="10" required placeholder="Escriba aquí su mensaje"></textarea>
                                 <p id="required_field">*Campo requerido</p>
-                                <input type="submit" value="Enviar mensaje">
+                                <input type="submit" id="submit" value="Enviar mensaje">
                             </form>
                     </section>
             </div>
@@ -63,5 +66,6 @@
             <?php include 'footer.php' ?>
     </footer>
     <script src="../js/header.js"></script>
+    <script src="../js/contactame.js"></script>
 </body>
 </html>

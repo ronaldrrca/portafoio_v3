@@ -347,6 +347,10 @@ h1{
     background-color: var(--dark-blue);
 }
 
+.placeholder_red::placeholder{
+    color: red;
+}
+
 label{
     width: 100%;
     font-size: 1.4rem;

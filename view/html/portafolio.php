@@ -20,13 +20,40 @@
             <h1>Portafolio</h1>
             <div id="briefcase_container">
                     <section id="project_1" class="briefcase_project">
+                        <h2>Memory Game</h2>
+                        <div class="float_left">
+                            <h3>Tipo:</h3>
+                            <p>Juego</p>
+                        </div>
+                        <h3>Descripción:</h3>
+                        <p>
+                            Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 
+                            funciones porteriormente. Utilicé CSS Grid y FlexBox según lo consideraba pertinente para las distribución y redistribución de los elementos en el
+                            proceso de adaptabilidad a los diferentes tamaños de dispositivos.
+                        </p>
+                        <div class="float_left">
+                            <h3>Link del repositorio:</h3>
+                            <a id="link_repo" href="https://github.com/ronaldrrca/memory" target="_blank">https://github.com/ronaldrrca/memory</a>
+                        </div>
+                        <h3>Imágenes</h3>
+                        <figure class="briefcase_project_images">
+                            <img src="../assets/images/img.memory-game-1.png" alt="imagen de juego de memoria">
+                            <img src="../assets/images/img.memory-game-2.png" alt="imagen de juego de memoria">
+                            <img src="../assets/images/img.memory-game-3.png" alt="imagen de juego de memoria">
+                        </figure>
+                    </section>
+                    <section id="project_2" class="briefcase_project">
                         <h2>Mi Portafolio</h2>
                         <div class="float_left">
                             <h3>Tipo:</h3>
                             <p>Sitio web</p>
                         </div>
                         <h3>Descripción:</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat dolores, officiis tempora, exercitationem nulla ducimus debitis eligendi autem natus expedita ipsum quia minus asperiores totam ad provident illum reiciendis iure!</p>
+                        <p>
+                            Este proyecto, presento mis habilidades y conocimientos como desarrollador, en el podrás ver algunas muestras de lo puedo ofrecer y presentar otros proyectos.
+                            También pretendo ir escalándolo y agregar mucho más contenido, como proyectos y entradas de blog referentes al área de la programación principalmente, y otros 
+                            temas relacionados.
+                        </p>
                         <div class="float_left">
                             <h3>Link del repositorio:</h3>
                             <a id="link_repo" href="https://github.com/ronaldrrca/portafolio_v3.git" target="_blank">https://github.com/ronaldrrca/portafolio_v3.git</a>
@@ -38,7 +65,7 @@
                             <img src="../assets/images/services-image.jpg" alt="">
                         </figure>
                     </section>
-                    <section id="project_2" class="briefcase_project">
+                    <section id="project_3" class="briefcase_project">
                         <h2>App piloto Innova ET</h2>
                         <div class="float_left">
                             <h3>Tipo:</h3>
@@ -59,12 +86,12 @@
                         </div>
                         <h3>Imágenes</h3>
                         <figure>
-                            <img src="../assets/images/img-app-innova-et-1.png" alt="">
-                            <img src="../assets/images/img-app-innova-et-2.png" alt="">
-                            <img src="../assets/images/img-app-innova-et-3.png" alt="">
+                            <img src="../assets/images/img-app-innova-et-1.png" alt="imagen de aplicacion web">
+                            <img src="../assets/images/img-app-innova-et-2.png" alt="imagen de aplicacion web">
+                            <img src="../assets/images/img-app-innova-et-3.png" alt="imagen de aplicacion web">
                         </figure>
                     </section>
-                    <section id="project_3" class="briefcase_project">
+                    <section id="project_4" class="briefcase_project">
                         <h2>Ecoculture Landing</h2>
                         <div class="float_left">
                             <h3>Tipo:</h3>
@@ -83,9 +110,9 @@
                         </div>
                         <h3>Imágenes</h3>
                         <figure>
-                            <img src="../assets/images/img-ecoculture-1.png" alt="">
-                            <img src="../assets/images/img-ecoculture-2.png" alt="">
-                            <img src="../assets/images/img-ecoculture-3.png" alt="">
+                            <img src="../assets/images/img-ecoculture-1.png" alt="imagen de landing page">
+                            <img src="../assets/images/img-ecoculture-2.png" alt="imagen de landing page">
+                            <img src="../assets/images/img-ecoculture-3.png" alt="imagen de landing page">
                         </figure>
                     </section>
             </div>
