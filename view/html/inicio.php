@@ -72,9 +72,10 @@
                         </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>Título proyecto</h3>
+                            <h3>FAQ - Preguntas y respuestas frecuentes</h3>
                             <p>
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            Componente de preguntas y respuestas frecuentes, con respuestas ocultas que se muestran al hacer click sobre su respectiva pregunta,
+                            igualmente se vuelven a ocultar al volver a hacer click en la misma o cualquier otra.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
                         <div class="project">

@@ -114,6 +114,28 @@
                             <img src="../assets/images/img-ecoculture-3.png" alt="imagen de landing page">
                         </figure>
                     </section>
+                    <section id="project_5" class="briefcase_project">
+                        <h2>FAQ - Preguntas y respuestas frecuentes</h2>
+                        <div class="float_left">
+                            <h3>Tipo:</h3>
+                            <p>Componente</p>
+                        </div>
+                        <h3>Descripción:</h3>
+                        <p>Componente de preguntas y respuestas frecuentes, con respuestas ocultas que se muestran al hacer click sobre su respectiva pregunta,
+                            igualmente se vuelven a ocultar al volver a hacer click en la misma o cualquier otra pregunta para mostrar la siguiente. Disposición de
+                            elementos con CSS Grid.          
+                        </p>
+                        <div class="float_left">
+                            <h3>Link del repositorio:</h3>
+                            <a id="link_repo" href="https://github.com/ronaldrrca/faq" target="_blank">https://github.com/ronaldrrca/faq</a>
+                        </div>
+                        <h3>Imágenes</h3>
+                        <figure>
+                            <img src="../assets/images/img-faq-1.png" alt="imagen de landing page">
+                            <img src="../assets/images/img-faq-2.png" alt="imagen de landing page">
+                            <img src="../assets/images/img-faq-3.png" alt="imagen de landing page">
+                        </figure>
+                    </section>
             </div>
     </main>
     <footer>
