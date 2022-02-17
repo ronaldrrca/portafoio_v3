@@ -50,7 +50,7 @@
                         </div>
                         <h3>Descripción:</h3>
                         <p>
-                            Este proyecto, presento mis habilidades y conocimientos como desarrollador, en el podrás ver algunas muestras de lo puedo ofrecer y presentar otros proyectos.
+                            Este proyecto, presento mis habilidades y conocimientos como desarrollador, en el podrás ver algunas muestras de lo que puedo ofrecer y presentar otros proyectos.
                             También pretendo ir escalándolo y agregar mucho más contenido, como proyectos y entradas de blog referentes al área de la programación principalmente, y otros 
                             temas relacionados.
                         </p>
@@ -73,12 +73,11 @@
                         </div>
                         <h3>Descripción:</h3>
                         <p>
-                            Web App para diagnóstico de innovación empresarial realizada durante mi período de pruebas.
-                            Consta de 2 diagnósticos (inicial y final), que generan el resultado del estado de la empresa,
-                            con sus respectivos gráficos y recomendaciones establecidas previamente por lógica según los 
-                            resultados obtenidos. Posterior al diagnóstico final, se genera un resultado comparativo entre
-                            los dos diagnósticos. Cuenta con control de usuarios según el perfil, diseño y desarroolo 
-                            responsivo (Adaptable a las pantallas de diferentes dispositivos), y la base de datos fue creada en MySQL.
+                            Web App para diagnóstico de innovación empresarial, Consta de 2 diagnósticos (inicial y final), que 
+                            generan el resultado del estado de la empresa, con sus respectivos gráficos y recomendaciones establecidas 
+                            previamente según los resultados obtenidos. Posterior al diagnóstico final, se genera un resultado comparativo 
+                            entre los dos diagnósticos. Cuenta con control de usuarios según el perfil, diseño y desarroolo responsivo 
+                            (Adaptable a las pantallas de diferentes dispositivos), y la base de datos fue creada en MySQL.
                         </p>
                         <div class="float_left">
                             <h3>Link del repositorio:</h3>
@@ -100,7 +99,7 @@
                         <h3>Descripción:</h3>
                         <p>Landing page realizada durante mi período de prácticas para una empresa de turismo de naturaleza, agroecología
                             y educación ambiental. Diseño y desarrollo responsivo, cuenta con un slider de imágenes que cambian automáticamente 
-                            cada cierta cantidad de segundos establecidos, y también con botones de avance y retorceso para que el usuario 
+                            cada cierta cantidad de segundos establecidos, y también con botones de avance y retroceso para que el usuario 
                             tenga la libertad de cambiarlas a su ritmo. Tiene un formulario que envía los datos ingresados a un correo electrónico 
                             preestablecido.          
                         </p>

@@ -45,15 +45,14 @@
                             <h3>Memory Game</h3>
                             <p>
                                 Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 
-                                funciones porteriormente<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                                funciones porteriormente.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
                         <div class="project"> 
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Mi Portafolio</h3>
                             <p>
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis 
-                                eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            Este proyecto, presento mis habilidades y conocimientos como desarrollador, en el podrás ver algunas muestras de lo que puedo ofrecer y presentar otros proyectos. También pretendo ir escalándolo y agregar mucho más contenido.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
                         <div class="project">
@@ -68,7 +67,7 @@
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>Ecoculture - Landing page</h3>
                             <p>
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                                Landing page con diseño responsivo, cuenta con un slider de imágenes automático y manual de imágenes un formulario que envía los datos ingresados a un correo electrónico.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
                         <div class="project">
