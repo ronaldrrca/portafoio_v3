@@ -21,19 +21,19 @@
             <div id="contact_container">
                     <section id="contact_data">
                         <div>
-                            <p class="contactData_redLetter">Nombre:</p>
+                            <p class="contactData_blueLetter">Nombre:</p>
                             <p class="contactData_whiteLetter">Ronald Rodríguez Campillo</p>
                         </div>
                         <div>
-                            <p class="contactData_redLetter">Teléfono:</p>
+                            <p class="contactData_blueLetter">Teléfono:</p>
                             <p class="contactData_whiteLetter">+57 3003581311</p>
                         </div>
                         <div>
-                            <p class="contactData_redLetter">Email:</p>
+                            <p class="contactData_blueLetter">Email:</p>
                             <p class="contactData_whiteLetter">ronaldrrca@gmail.com</p>
                         </div>
                         <div>
-                            <p class="contactData_redLetter">Linkedin:</p>
+                            <p class="contactData_blueLetter">Linkedin:</p>
                             <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">
                                 <p class="contactData_whiteLetter">ronald-rodríguez-campillo-66b12771</p>
                             </a>
