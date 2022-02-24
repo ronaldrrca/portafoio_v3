@@ -32,29 +32,14 @@
                     <p id="introducingMyself_info_name">Ronald Rodríguez Campillo</p>
                     <p class="introducingMyself_info_text">Tecnólogo en Análisis y Desarrollo de Sistemas de Información</p>
                     <p class="introducingMyself_info_text">Desarrollador web</p>
-                    <button id="briefcase_button">Mi Portafolio</button>
+                    <a href="portafolio.php"><button id="briefcase_button">Mi Portafolio</button></a>
                 </div>
             </section>
             <section id="myProjects">
-                <p id="myProjects_title">Proyectos recientes</p>
                 <h1>Desarrollo web responsivo, landing pages, páginas, sitios y aplicaciones web</h1>
+                <p id="myProjects_title">Proyectos recientes</p>
                 <div class="littleRedLine"></div>
                 <div id="projects">
-                        <div class="project">
-                            <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>Memory Game</h3>
-                            <p>
-                                Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 
-                                funciones porteriormente.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
-                            </p>
-                        </div>
-                        <div class="project"> 
-                            <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>Mi Portafolio</h3>
-                            <p>
-                            Este proyecto, presento mis habilidades y conocimientos como desarrollador, en el podrás ver algunas muestras de lo que puedo ofrecer y presentar otros proyectos. También pretendo ir escalándolo y agregar mucho más contenido.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
-                            </p>
-                        </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
                             <h3>App piloto Innova ET</h3>
@@ -72,19 +57,13 @@
                         </div>
                         <div class="project">
                             <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>FAQ - Preguntas y respuestas frecuentes</h3>
+                            <h3>Memory Game</h3>
                             <p>
-                            Componente de preguntas y respuestas frecuentes, con respuestas ocultas que se muestran al hacer click sobre su respectiva pregunta,
-                            igualmente se vuelven a ocultar al volver a hacer click en la misma o cualquier otra.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                                Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 
+                                funciones porteriormente.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
-                        <div class="project">
-                            <img src="../assets/icons/project_icon.svg" alt="">
-                            <h3>Título proyecto</h3>
-                            <p>
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi ea quos necessitatibus expedita tempora eaque libero provident, cupiditate nobis eius esse totam rerum non laborum sapiente quas exercitationem molestias reiciendis.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
-                            </p>
-                        </div>
+                        
                 </div>
             </section>
             <section id="aboutMe">

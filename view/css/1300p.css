@@ -82,3 +82,39 @@ input[type="submit"]:hover{
     transition: all 0.3s;
 }
 
+#grid_xamples{
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+#grid_xample_1, #grid_xample_2{
+    width: 45%;
+    min-height: 10rem;
+}
+
+hr{
+    display: none;
+}
+
+/* #grid_xample_1{
+    background-color: pink;
+}
+
+#grid_xample_2{
+    background-color: brown;
+} */
+
+.select_buttons div:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.select_buttons{
+    font-size: 1.5rem;
+}
+
+.selection_columns{
+    font-size: 1.5rem;
+    
+}
