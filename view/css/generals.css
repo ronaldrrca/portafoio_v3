@@ -187,7 +187,7 @@ footer p{
     padding: 0 1rem 5rem 1rem;
 }
 
-#myProjects_title, h2{
+.briefcase_project h2{
     display: inline-block;
     width: 100%;
     margin-bottom: 1rem;
@@ -594,7 +594,7 @@ textarea{
     width: 100%;
     height: auto;
     min-height: 20rem;
-    padding: 1rem 1rem 6rem 1rem;
+    padding: 1rem;
     background-color: var(--light-blue);
 }
 
@@ -605,7 +605,8 @@ textarea{
     height: auto;
     min-height: 5rem;
     padding: 2rem 0;
-    background-color: var(--dark-blue);
+    background-color: #ffffff;
+    border: 1px solid var(--light-blue);
 }
 
 #briefcase_container figure{
@@ -615,14 +616,16 @@ textarea{
     grid-template-columns: 100%;
     grid-template-rows: repeat(3, auto);
     grid-gap: 3rem;
+    
 }
 
 .briefcase_project figure img{
     width: 100%;
+  
 }
 
 .briefcase_project h3, .briefcase_project p{
-    color: #ffffff;
+    color: #000000;
     padding-left: 1rem;
 }
 
@@ -642,7 +645,7 @@ textarea{
 
 .briefcase_project a{
     font-size: 1.3rem;
-    color: #ffffff;
+    color: #000000;
     padding-left: 1rem;
 }
 

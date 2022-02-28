@@ -30,7 +30,7 @@
                             Web App para diagnóstico de innovación empresarial, Consta de 2 diagnósticos (inicial y final), que 
                             generan el resultado del estado de la empresa, con sus respectivos gráficos y recomendaciones establecidas 
                             previamente según los resultados obtenidos. Posterior al diagnóstico final, se genera un resultado comparativo 
-                            entre los dos diagnósticos. Cuenta con control de usuarios según el perfil, diseño y desarroolo responsivo 
+                            entre los dos diagnósticos. Cuenta con control de usuarios según el perfil, diseño y desarrollo responsivo 
                             (Adaptable a las pantallas de diferentes dispositivos), y la base de datos fue creada en MySQL.
                         </p>
                         <div class="float_left">
@@ -77,7 +77,7 @@
                         <h3>Descripción:</h3>
                         <p>
                             Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 
-                            funciones porteriormente. Utilicé CSS Grid y FlexBox según lo consideraba pertinente para las distribución y redistribución de los elementos en el
+                            funciones posteriormente. Utilicé CSS Grid y FlexBox según lo consideraba pertinente para las distribución y redistribución de los elementos en el
                             proceso de adaptabilidad a los diferentes tamaños de dispositivos.
                         </p>
                         <div class="float_left">
