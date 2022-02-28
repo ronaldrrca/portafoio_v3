@@ -22,22 +22,25 @@
                 <div id="degrees" class="skills_card">
                     <h2 id="degrees_tittle">Estudios</h2>
                     <p>Tecnólogo en Análisis y Desarrollo de Sistemas de Información.</p><br>
-                    <p><b>Servicio Nacional de Aprendizaje - SENA</b></p>
+                    <p><b>Servicio Nacional de Aprendizaje - SENA.</b></p>
                 </div>
                 <div id="languages" class="skills_card">
                     <h2 id="languages_tittle">Idiomas</h2>
-                    Inglés
-                    Hablado
-                    Entiendo
-                    Leo
-                    Escribo
+                    <b>Inglés</b>
+                    <ul>
+                        <li>Listening: Intermedio.</li>
+                        <li>Speaking: Básico.</li>
+                        <li>Reading: Intermedio.</li>
+                        <li>Writing: Intermedio.</li>
+                    </ul>
                 </div>
                 <div id="interests" class="skills_card">
                     <h2 id="interests_tittle">Intereses</h2>
                     <ul>
-                        <li>Adquirir conocimientos constantemente</li>
-                        <li>Aplicar los conocimientos en nuevos proyectos</li>
-                        <li>Participar de proyectos colaborativos</li>
+                        <li>Adquirir conocimientos constantemente.</li>
+                        <li>Participar de proyectos colaborativos.</li>
+                        <li>Realizar proyectos como freelancer.</li>
+                        <li>Trabajar para una empresa que me permita crecer profesional y personalmente.</li>
                     </ul>
                 </div>
                 <div id="programming_languages" class="skills_card">
@@ -68,12 +71,12 @@
                 <div id="hobbies" class="skills_card">
                     <h2 id="hobbies_tittle">Hobbies</h2>
                     <ul>
-                        <li>Lectura en inglés</li>
-                        <li>Ver documentales de historia</li>
-                        <li>Ejercicio físico moderado</li>
-                        <li>Transmitir conocimientos</li>
                         <li>Estudiar</li>
                         <li>Programar</li>
+                        <li>Transmitir conocimientos</li>
+                        <li>Ejercicio físico moderado</li>
+                        <li>Lectura</li>
+                        <li>Ver documentales de historia</li>
                     </ul>
                 </div>
             </div>

@@ -480,23 +480,24 @@ textarea{
     height: auto;
     min-height: 20rem;
     padding: 1rem 1rem 6rem 1rem;
-    background-color: var(--light-blue);
+    background-color: #ffffff;
 }
 
 .skills_card{
     width: 100%;
     height: auto;
     min-height: 15rem;
-    padding: 3rem 1rem;
-    /* margin-bottom: 3rem; */
+    padding: 3rem 2rem;
+    border-radius: 3rem;
     font-size: 1.4rem;
     color: #ffffff;
-    background-color: var(--dark-blue);
+    background-color: var(--light-blue);
 }
 
 .skills_card h2{
     text-align: left;
     color: red;
+    margin-bottom: 2rem;
 }
 
 #degrees_tittle::before {
@@ -505,7 +506,8 @@ textarea{
     display: block;
     float: left;
     margin-right: 1rem;
-    top: -3px;
+   
+    
 }
 
 #languages_tittle::before{
@@ -563,6 +565,10 @@ textarea{
 }
 
 #programming_languages ul{
+    margin-left: 1rem;
+}
+
+#languages ul{
     margin-left: 1rem;
 }
 
