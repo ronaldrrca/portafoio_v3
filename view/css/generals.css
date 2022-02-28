@@ -49,6 +49,7 @@ main{
     flex-direction: column;
     justify-content: center;
     margin-top: 6rem;
+    margin-bottom: 5rem;
 }
 
 footer{
@@ -667,7 +668,7 @@ textarea{
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding: 2rem 1rem;
+    padding: 0 1rem;
     min-height: 10rem;
 }
 
@@ -677,7 +678,7 @@ textarea{
     flex-direction: column;
 }
 
-#mobile_separator{
+.mobile_separator{
     width: 100%;
     margin-top: 2rem;
     margin-bottom: 3rem;
@@ -887,12 +888,13 @@ textarea{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem 1rem;
+    /* padding: 2rem 1rem; */
 }
 
 #dropDownMenu_xamples p{
     font-size: 1.6rem;
     margin-bottom: 2rem;
+    padding: 0 1rem;
 }
 
 #dropDownMenu_xample_1{
@@ -902,8 +904,8 @@ textarea{
     align-items: flex-start;
     width: 100%;
     height: 37.1rem;
-    background-color: #333;
-    padding: 4rem 2rem 2rem 2rem;
+    border: 20px solid #333;
+    padding: 4rem 1rem 2rem 1rem;
 }
 
 
@@ -911,9 +913,10 @@ textarea{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* border: 1px solid white; */
+    
     width: 100%;
     min-height: 2rem;
+   
 }
 
 .expand_more{
@@ -998,3 +1001,62 @@ textarea{
     width: 12rem;
 }
 
+#dropDownMenu_xample_2{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 100%;
+    height: 37.1rem;
+    border: 20px solid #333;
+    padding: 1rem;
+}
+
+.question{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #039BE5;
+    cursor: pointer;
+    padding: 1rem;
+    font-size: 1.5rem;
+    
+}
+
+#question_1 p, #question_2 p, #question_3 p{
+    margin-bottom: 0;
+}
+
+.question img{
+    margin-right: 1rem;
+}
+
+.question p{
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.answer{
+    display: none;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+    font-size: 1.4rem;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 0 0 1rem 1rem;
+    
+}
+
+.answer p{
+    color: #000000;
+}
+
+.answer p::before{
+    content: "R/: ";
+    font-weight: bold;
+}
+
+/* .item_faq{
+    height: 8rem;
+} */

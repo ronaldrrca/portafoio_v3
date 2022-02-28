@@ -136,6 +136,12 @@
 }
 
 #dropDMX_menu{
-    width: 60%;
+    width: 80%;
 }
+
+/* @media(min-width: 768px){
+    #container_faq{
+        width: 80%;
+    }
+} */
 

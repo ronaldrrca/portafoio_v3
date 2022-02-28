@@ -1,3 +1,5 @@
+
+
 #projects{
     /* background-color: var(--dark-blue); */
     /* display: grid; */
@@ -85,7 +87,7 @@ input[type="submit"]:hover{
 #grid_xamples{
     flex-direction: row;
     justify-content: space-around;
-    
+    margin-bottom: 10rem;
 }
 
 #grid_xample_1, #grid_xample_2{
@@ -142,4 +144,9 @@ hr{
 
 #dropDownMenu_xamples p{
     height: 5.4rem;
+}
+
+#dropDownMenu_xamples{
+    display: flex;
+    align-items: flex-start;
 }
