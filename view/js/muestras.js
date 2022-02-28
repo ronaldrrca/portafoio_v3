@@ -4,12 +4,13 @@ const _3_column = document.getElementById("_3_column");
 const _4_column = document.getElementById("_4_column");
 const _5_column = document.getElementById("_5_column");
 const boxes_container = document.getElementById("boxes_container");
-const flex_a = document.getElementById("flex_a");
-const flex_b = document.getElementById("flex_b");
-const flex_c = document.getElementById("flex_c");
+const grid_a = document.getElementById("grid_a");
+const grid_b = document.getElementById("grid_b");
+const grid_c = document.getElementById("grid_c");
 const modelo_1 = document.getElementById("modelo_1");
 const modelo_2 = document.getElementById("modelo_2");
 const modelo_3 = document.getElementById("modelo_3");
+
 
 //Función que cambia el número de columnas, muestra el botón activo.
 function resolve_columns(columns){
@@ -79,29 +80,50 @@ _5_column.addEventListener("click", ()=> {
 
 //Eventos click para cambiar entre los tres modelos de maquetación con Grid y muestran el botón activo.
 modelo_1.addEventListener("click", ()=> {
-    flex_b.style.display = "none";
-    flex_c.style.display = "none";
-    flex_a.style.display = "grid";
+    grid_b.style.display = "none";
+    grid_c.style.display = "none";
+    grid_a.style.display = "grid";
     modelo_2.classList.remove("active_button");
     modelo_3.classList.remove("active_button"); 
     modelo_1.classList.add("active_button");
 })
 
 modelo_2.addEventListener("click", ()=> {
-    flex_c.style.display = "none";
-    flex_a.style.display = "none";
-    flex_b.style.display = "grid";
+    grid_c.style.display = "none";
+    grid_a.style.display = "none";
+    grid_b.style.display = "grid";
     modelo_1.classList.remove("active_button");
     modelo_3.classList.remove("active_button"); 
     modelo_2.classList.add("active_button");
 })
 
 modelo_3.addEventListener("click", ()=> {
-    flex_b.style.display = "none";
-    flex_a.style.display = "none";
-    flex_c.style.display = "grid";
+    grid_b.style.display = "none";
+    grid_a.style.display = "none";
+    grid_c.style.display = "grid";
     modelo_1.classList.remove("active_button");
     modelo_2.classList.remove("active_button");
     modelo_3.classList.add("active_button"); 
 })
+
+// const dropDMX_submenu_item_1 = document.getElementById("dropDMX_submenu_item_1");
+// const dropDMX_submenu_item_1_3 = document.getElementById("dropDMX_submenu_item_1_3");
+// const menuItem_1 = document.getElementById("menuItem_1");
+// const submenu_item_1_3 = document.getElementById("submenu_item_1_3");
+
+// menuItem_1.addEventListener("click", (e)=> {
+//     if (dropDMX_submenu_item_1.style.display === "none") {
+//         dropDMX_submenu_item_1.style.display = "block";
+        
+//     }else {
+//         dropDMX_submenu_item_1.style.display = "none";
+//         // e.stopPropagation();
+//     }
+// })
+
+// submenu_item_1_3.addEventListener("click", ()=> {
+    
+//     dropDMX_submenu_item_1_3.style.display = "block";
+// })
+
 

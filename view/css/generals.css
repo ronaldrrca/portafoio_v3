@@ -498,7 +498,7 @@ textarea{
     color: red;
 }
 
-#drgrees_tittle::before {
+#degrees_tittle::before {
     content:url('../assets//icons//school_white_24dp.svg'); 
     position: relative;  
     display: block;
@@ -661,23 +661,26 @@ textarea{
     display: flex;
     flex-direction: column;
     align-items: center;
-    
 }
 
 #grid_xample_1, #grid_xample_2{
+    display: flex;
+    flex-direction: column;
     width: 100%;
     padding: 2rem 1rem;
     min-height: 10rem;
 }
 
-#grid_xample_1{
-    margin-bottom: 2rem;
-    /* background-color: #0466c8; */
+.dropDownMenu_xample_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 #mobile_separator{
     width: 100%;
-    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
     border: 1px solid #ccc;
 }
 
@@ -741,7 +744,7 @@ textarea{
     margin: 0 auto;
 }
 
-#flex_a{
+#grid_a{
     display: grid;
     grid-template-columns: repeat(12, auto);
     gap: 0.5rem;
@@ -751,7 +754,7 @@ textarea{
     padding: 2rem;
 }
 
-#flex_a div{
+#grid_a div{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -766,7 +769,7 @@ textarea{
     margin: 0 auto;
 }
 
-#flex_b{
+#grid_b{
     display: none;
     grid-template-columns: repeat(12, auto);
     gap: 0.5rem;
@@ -776,13 +779,13 @@ textarea{
     padding: 2rem;
 }
 
-#flex_b div{
+#grid_b div{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#flex_c{
+#grid_c{
     display: none;
     grid-template-columns: repeat(12, auto);
     gap: 0.5rem;
@@ -792,7 +795,7 @@ textarea{
     padding: 2rem;
 }
 
-#flex_c div{
+#grid_c div{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -878,5 +881,120 @@ textarea{
     background-color: #0ead69;
 }
 
+#dropDownMenu_xamples{
+    width: 100%;
+    min-height: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 1rem;
+}
 
+#dropDownMenu_xamples p{
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
+#dropDownMenu_xample_1{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 37.1rem;
+    background-color: #333;
+    padding: 4rem 2rem 2rem 2rem;
+}
+
+
+#dropDMX_menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid white; */
+    width: 100%;
+    min-height: 2rem;
+}
+
+.expand_more{
+    position: absolute;
+    top: -6px;
+    right: -2px;
+}
+
+.expand_more_hor{
+    position: absolute;
+    top: 6px;
+    right: -4px;
+    transform: rotate(270deg);
+}
+
+.menuItem{
+    background-color: crimson;
+    width: 8rem;
+    list-style: none;
+    padding: 1rem;
+    position: relative;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.subMenuItem{
+    width: 12rem;
+    list-style: none;
+    padding: 1rem;
+    background-color: #0466c8;
+    border-bottom: 1px solid #ffffff;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+#dropDMX_submenu_item_1 li:last-child{
+    border-bottom: none;
+}
+
+#dropDMX_submenu_item_1_3 > li{
+    background-color: green;
+    /* color: #333; */
+}
+
+#menuItem_1{
+    position: relative;
+}
+
+#menuItem_1:hover #dropDMX_submenu_item_1{
+    display: block;
+}
+
+#dropDMX_submenu_item_1{
+    position: absolute;
+    top: 37px;
+    left: 0;
+    /* display: none; */
+}
+
+#submenu_item_1_3{
+    position: relative
+}
+
+#submenu_item_1_3:hover #dropDMX_submenu_item_1_3{
+    display: block;
+}
+
+.dropDMX_submenu{
+    display: none;
+}
+
+#dropDMX_submenu_item_1_3{
+    position: absolute;
+    top: 0;
+    right: -120px;
+    /* display: none; */
+}
+
+.subMenuItem{
+    width: 12rem;
+}
 

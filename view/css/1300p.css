@@ -90,20 +90,17 @@ input[type="submit"]:hover{
 
 #grid_xample_1, #grid_xample_2{
     width: 45%;
-    min-height: 10rem;
+    /* min-height: 10rem; */
 }
 
 hr{
     display: none;
 }
 
-/* #grid_xample_1{
-    background-color: pink;
+#grid_xamples p{
+    height: 7.2rem;
 }
 
-#grid_xample_2{
-    background-color: brown;
-} */
 
 .select_buttons div:hover{
     cursor: pointer;
@@ -116,5 +113,33 @@ hr{
 
 .selection_columns{
     font-size: 1.5rem;
+}
+
+#dropDownMenu_xample_1 li{
+    cursor: pointer;
+}
+
+#dropDownMenu_xample_1 li:hover{
+    opacity: 0.8;
+   
+}
+
+/* #dropDownMenu_xample_1, #dropDownMenu_xample_2{
+    width: 45%;
+    background-color: rebeccapurple;
     
+} */
+
+.dropDownMenu_xample_container{
+    width: 45%;
+  
+}
+
+#dropDownMenu_xamples{
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#dropDownMenu_xamples p{
+    height: 5.4rem;
 }

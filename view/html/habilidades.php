@@ -20,7 +20,7 @@
             <h1>Habilidades y conocimientos </h1>
             <div id="skills_container">
                 <div id="degrees" class="skills_card">
-                    <h2 id="drgrees_tittle">Estudios</h2>
+                    <h2 id="degrees_tittle">Estudios</h2>
                     <p>Tecnólogo en Análisis y Desarrollo de Sistemas de Información.</p><br>
                     <p><b>Servicio Nacional de Aprendizaje - SENA</b></p>
                 </div>

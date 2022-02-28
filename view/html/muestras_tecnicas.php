@@ -58,7 +58,8 @@
                 <div id="grid_xample_2"><!--grid_xample_2 open-->
                 <h2>Maquetación con CSS Grid (areas)</h2>
                     <p>Presento tres mdelos de maquetación web, aplicados mediante CSS Grid (areas), en este caso la disposición se mantiene
-                        sin importar el tamaño del dispositivo, pero pudieramos hacer que la disposición cambie con responsive design</p>
+                        sin importar el tamaño del dispositivo, pero pudieramos hacer que la disposición cambie con responsive design. 
+                        Haz click en cada botón para ver como cambia la maquetación</p>
                     <div class="select_buttons">
                         <div id="modelo_1" class="selection_model active_button">
                             Modelo 1
@@ -71,7 +72,7 @@
                         </div>
                     </div>
                     
-                    <div id="flex_a">
+                    <div id="grid_a">
                         <div id="header_a" class="box_2">Header</div>
                         <div id="nav_a" class="box_2">Nav</div>
                         <div id="aside_a" class="box_2">Aside</div>
@@ -79,7 +80,7 @@
                         <div id="footer_a" class="box_2">Footer</div>
                     </div>
                 
-                    <div id="flex_b">
+                    <div id="grid_b">
                         <div id="header_b" class="box_2">Header</div>
                         <!-- <div id="nav_b" class="box_2">Nav</div> -->
                         <div id="aside_b" class="box_2">Aside</div>
@@ -87,7 +88,7 @@
                         <div id="footer_b" class="box_2">Footer</div>
                     </div>
                 
-                    <div id="flex_c">
+                    <div id="grid_c">
                         <div id="header_c" class="box_2">Header</div>
                         <div id="nav_c" class="box_2">Nav</div>
                         <!-- <div id="aside_c" class="box_2">Aside</div> -->
@@ -95,23 +96,72 @@
                         <div id="footer_c" class="box_2">Footer</div>
                     </div>
                 </div><!--grid_xample_2 close-->
-            </div><!--xamples_container close-->
-            
-            <div id="flex_xamples">
-                <div id="flex_xample_1">
-
-                </div>
-
-                <div id="flex_xample_2">
-
-                </div>
-            </div>
+            </div><!--grid_xamples close-->
+            <hr id="mobile_separator">
+            <div id="dropDownMenu_xamples"><!--dropDownMenu_xample open-->
+                <div class="dropDownMenu_xample_container"><!--dropDownMenu_xample_container open-->
+                    <h2>Menú desplegable</h2>
+                    <p>Menú principal con subumenus desplegables en el Item_1 y en el sub Item_1.3, mediante evento hover </p>
+                    <div id="dropDownMenu_xample_1"><!--dropDownMenu_xample_1 open-->
+                            <ul id="dropDMX_menu">
+                                <li id="menuItem_1" class="menuItem">Item_1 <img class="expand_more" src="../assets/icons/expand_more_white_24dp.svg" alt="">
+                                    <ul id="dropDMX_submenu_item_1" class="dropDMX_submenu">
+                                        <li id="submenu_item_1_1" class="subMenuItem">Item 1.1</li>
+                                        <li id="submenu_item_1_2" class="subMenuItem">Item 1.2</li>
+                                        <li id="submenu_item_1_3" class="subMenuItem">Item 1.3 <img class="expand_more_hor" src="../assets/icons/expand_more_white_24dp.svg" alt="">
+                                            <ul id="dropDMX_submenu_item_1_3" class="dropDMX_submenu">
+                                                <li id="submenu_item_1_3_1" class="subMenuItem">Item 1.3.1</li>
+                                                <li id="submenu_item_1_3_2" class="subMenuItem">Item 1.3.2</li>
+                                                <li id="submenu_item_1_3_3" class="subMenuItem">Item 1.3.3</li>
+                                                <li id="submenu_item_1_3_4" class="subMenuItem">Item 1.3.4</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menuItem_2" class="menuItem">Item_2</li>
+                                <li id="menuItem_3" class="menuItem">Item_3</li>
+                                <li id="menuItem_4" class="menuItem">Item_4</li>
+                            </ul>
+                        </div><!--dropDownMenu_xample_1 close-->
+                </div><!--dropDownMenu_xample_container close-->
+                <hr id="mobile_separator">
+                <div class="dropDownMenu_xample_container"><!--dropDownMenu_xample_container open-->
+                    <h2>idugiusiguba.jbfv.bj.b</h2>
+                        <p>Presento tres mdelos de maquetación web, aplicados mediante CSS Grid (areas), en este caso la disposición se mantiene
+                            sin importar el tamaño del dispositivo, pero pudieramos hacer que la disposición cambie con responsive design</p>
+                    <div id="dropDownMenu_xample_1"><!--dropDownMenu_xample_2 open-->
+                            <ul id="dropDMX_menu">
+                                <li id="menuItem_1" class="menuItem">Item_1 <img class="expand_more" src="../assets/icons/expand_more_white_24dp.svg" alt="">
+                                    <ul id="dropDMX_submenu_item_1" class="dropDMX_submenu">
+                                        <li id="submenu_item_1_1" class="subMenuItem">Item 1.1</li>
+                                        <li id="submenu_item_1_2" class="subMenuItem">Item 1.2</li>
+                                        <li id="submenu_item_1_3" class="subMenuItem">Item 1.3 <img class="expand_more_hor" src="../assets/icons/expand_more_white_24dp.svg" alt="">
+                                            <ul id="dropDMX_submenu_item_1_3" class="dropDMX_submenu">
+                                                <li id="submenu_item_1_3_1" class="subMenuItem">Item 1.3.1</li>
+                                                <li id="submenu_item_1_3_2" class="subMenuItem">Item 1.3.2</li>
+                                                <li id="submenu_item_1_3_3" class="subMenuItem">Item 1.3.3</li>
+                                                <li id="submenu_item_1_3_4" class="subMenuItem">Item 1.3.4</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menuItem_2" class="menuItem">Item_2</li>
+                                <li id="menuItem_3" class="menuItem">Item_3</li>
+                                <li id="menuItem_4" class="menuItem">Item_4</li>
+                            </ul>
+                    </div><!--dropDownMenu_xample_2 close-->
+                </div><!--dropDownMenu_xample_container close-->
+                
+                
+                
+            </div><!--dropDownMenu_xamples close-->
         </div><!--xamples_container close-->
             
     </main>
     <footer>
             <?php include 'footer.php' ?>
     </footer>
+    <script src="../js/header.js"></script>
     <script src="../js/muestras.js"></script>
 </body>
 </html>
