@@ -32,7 +32,6 @@
     width: 70%;
 }
 
-
 #aboutMe_subtitle{
     text-align: center;
 }
@@ -49,8 +48,6 @@
 #aboutMe_content_photo img{
     width: 18rem;
 }
-
-
 
 #aboutMe_content_info{
     width: 45%;
@@ -80,7 +77,7 @@
 #services_content{
     width: 90%;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     padding-bottom: 3rem;
 }
 
@@ -139,9 +136,4 @@
     width: 80%;
 }
 
-/* @media(min-width: 768px){
-    #container_faq{
-        width: 80%;
-    }
-} */
 

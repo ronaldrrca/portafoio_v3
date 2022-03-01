@@ -31,9 +31,6 @@ header{
     color: cadetblue;
 }
 
-/*Main start styles*/
-
-
 #introducingMyself{
  justify-content: center;
 }
@@ -55,7 +52,6 @@ header{
 #contact_form form{
     width: 70%;
  } 
-
 
  #services_image img{
     width: 60%;

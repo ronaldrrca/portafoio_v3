@@ -21,19 +21,19 @@
             <div id="contact_container">
                     <section id="contact_data">
                         <div>
-                            <p class="contactData_blueLetter">Nombre:</p>
+                            <p class="contactData_orangeLetter">Nombre:</p>
                             <p class="contactData_blackLetter">Ronald Rodríguez Campillo</p>
                         </div>
                         <div>
-                            <p class="contactData_blueLetter">Teléfono:</p>
+                            <p class="contactData_orangeLetter">Teléfono:</p>
                             <p class="contactData_blackLetter">+57 3003581311</p>
                         </div>
                         <div>
-                            <p class="contactData_blueLetter">Email:</p>
+                            <p class="contactData_orangeLetter">Email:</p>
                             <p class="contactData_blackLetter">ronaldrrca@gmail.com</p>
                         </div>
                         <div>
-                            <p class="contactData_blueLetter">Linkedin:</p>
+                            <p class="contactData_orangeLetter">Linkedin:</p>
                             <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">
                                 <p class="contactData_blackLetter">ronald-rodríguez-campillo-66b12771</p>
                             </a>
@@ -43,7 +43,7 @@
                     </section>
                     <section id="contact_form">
                             <h2>Envía un mensaje</h2>
-                            <form action="../../controler/enviar_mail.php" method="POST">
+                            <form id="form_contact" action="../../controler/enviar_mail.php" method="POST">
                                 <label for="name">Nombre*</label>
                                 <input type="text" id="name" class="placeholder_red" name="name" required autofocus>
                                 <label for="cellphone">Teléfono Móvil*</label>

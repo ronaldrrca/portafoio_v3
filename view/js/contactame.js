@@ -6,8 +6,6 @@ let subject = document.getElementById("subject");
 let message = document.getElementById("message");
 const submit = document.getElementById("submit");
 
-
-
 submit.addEventListener("click", function(){
     if (namePerson.value.length < 4) {
         namePerson.value = "";

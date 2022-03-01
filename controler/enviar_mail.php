@@ -6,6 +6,7 @@ $mail = $_POST['email'];
 $subject = $_POST['subject'];
 $text = $_POST['message'];
 $message = "";
+$to = 'ronaldrrca@gmail.com';
 
 
 $header = "From: bongoyor@gmail.com" . "\r\n";
@@ -21,19 +22,12 @@ $message .= "Asunto: " . $subject . " \r\n";
 $message .= "Enviado el: " . date('d/m/Y', time()) . ", a las " . date("h:i:sa") . " \r\n";
 $message .= "Mensaje: " . $text . " \r\n";
 
-echo $message;
-die();
-
-$to = 'ronaldrrca@gmail.com';
-// $subject = $subject;
 
 mail($to, $subject, $message, $header);
 
 
 
-// header("Location:index.php");
-
-
-
+echo '<script>alert("probando alert php");</script>';
+echo '<meta http-equiv="refresh" content="0; url=../view/html/contactame.php">';
 
 ?>

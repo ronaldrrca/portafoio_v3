@@ -1,8 +1,6 @@
 :root{
     --light-blue: #23253a;
-    --medium-blue: #001523;
     --dark-blue: #1f2235; 
-
 }
 
 /*basic styles*/
@@ -67,7 +65,6 @@ footer{
 footer p{
     margin: 0.3rem 0;
 }
-
 
 /*Header styles*/
 #header_myBriefcase{
@@ -226,7 +223,6 @@ footer p{
 .project img{
     width: 3rem;
     margin-bottom: 1rem;
-    
 }
 
 #projects > div{
@@ -273,7 +269,6 @@ footer p{
 #aboutMe_text, #aboutMe_subtitle{
     display: inline-block;
     width: 100%;
-    /* padding: 0 1rem 0 1rem; */
     font-size: 1.4rem;
     color: #ffffff;
     margin-bottom: 2rem;
@@ -291,10 +286,6 @@ footer p{
 
 #aboutMe_content_info{
     padding-top: 3rem;
-}
-
-.contactData_blueLetter, .contactData_whiteLetter{
-    font-size: 1.4rem;
 }
 
 .contactData_blueLetter{
@@ -422,7 +413,6 @@ textarea{
 }
 
 #contact_form input[type="submit"]{
-    /* width: 10rem; */
     padding: 1rem 2rem;
     margin-top: 5rem;
     border-radius: 2rem;
@@ -440,7 +430,6 @@ textarea{
     width: 100%;
     height: auto;
     background-color: #ffffff;
-    /* margin-bottom: 3rem; */
 }
 
 #services_image img{
@@ -455,11 +444,10 @@ textarea{
 }
 
 #services_image figcaption{
-    color: #ffffff;
+    color: #000000;
     padding: 0.5rem 0 0 0.5rem;
     width: 100%;
 }
-
 
 #services_content{
     width: 100%;
@@ -473,12 +461,10 @@ textarea{
     font-weight: bold;
     font-size: 1.4rem;
     color: #ffffff;
-    
 }
 
 #services_content #products, #services_content #other_services{
     padding-left: 2rem;
-    
 }
 
 #services_products_section, #services_otherServices_section{
@@ -495,7 +481,6 @@ textarea{
     font-size: 1.4rem;
     color: #000000;
 }
-
 
 #skills_container{
     display: grid;
@@ -532,8 +517,6 @@ textarea{
     display: block;
     float: left;
     margin-right: 1rem;
-   
-    
 }
 
 #languages_tittle::before{
@@ -590,27 +573,7 @@ textarea{
     top: -3px;
 }
 
-#programming_languages ul{
-    margin-left: 1rem;
-}
-
-#languages ul{
-    margin-left: 1rem;
-}
-
-#other_knowledges ul{
-    margin-left: 1rem;
-}
-
-#skills ul{
-    margin-left: 1rem;
-}
-
-#hobbies ul{
-    margin-left: 1rem;
-}
-
-#interests ul{
+#programming_languages ul, #languages ul, #other_knowledges ul, #skills ul, #hobbies ul, #interests ul{
     margin-left: 1rem;
 }
 
@@ -648,12 +611,10 @@ textarea{
     grid-template-columns: 100%;
     grid-template-rows: repeat(3, auto);
     grid-gap: 3rem;
-    
 }
 
 .briefcase_project figure img{
     width: 100%;
-  
 }
 
 .briefcase_project h3, .briefcase_project p{
@@ -672,8 +633,6 @@ textarea{
     font-size: 1.5rem;
     margin: 2rem 0 1rem 0;
 }
-
-
 
 .briefcase_project a{
     font-size: 1.3rem;
@@ -719,10 +678,6 @@ textarea{
     margin-bottom: 3rem;
     border: 1px solid #ccc;
 }
-
-/* #grid_xample_2{
-    background-color: brown;
-} */
 
 #grid_xamples h2{
     color: #000000;
@@ -862,7 +817,6 @@ textarea{
 }
 
 #footer_a{
-    /* display: none; */
     grid-area: 4/1/5/13;
     height: 5rem;
     background-color: #0ead69;
@@ -887,7 +841,6 @@ textarea{
 }
 
 #footer_b{
-    /* display: none; */
     grid-area: 4/1/5/13;
     height: 5rem;
     background-color: #0ead69;
@@ -923,7 +876,6 @@ textarea{
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* padding: 2rem 1rem; */
 }
 
 #dropDownMenu_xamples p{
@@ -934,7 +886,6 @@ textarea{
 
 #dropDownMenu_xample_1{
     display: flex;
-    /* flex-direction: column; */
     justify-content: center;
     align-items: flex-start;
     width: 100%;
@@ -948,10 +899,8 @@ textarea{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
     width: 100%;
     min-height: 2rem;
-   
 }
 
 .expand_more{
@@ -1010,7 +959,6 @@ textarea{
     position: absolute;
     top: 37px;
     left: 0;
-    /* display: none; */
 }
 
 #submenu_item_1_3{
@@ -1029,7 +977,6 @@ textarea{
     position: absolute;
     top: 0;
     right: -120px;
-    /* display: none; */
 }
 
 .subMenuItem{
@@ -1054,7 +1001,6 @@ textarea{
     cursor: pointer;
     padding: 1rem;
     font-size: 1.5rem;
-    
 }
 
 #question_1 p, #question_2 p, #question_3 p{
@@ -1080,7 +1026,6 @@ textarea{
     background-color: #ffffff;
     border: 1px solid #ccc;
     border-radius: 0 0 1rem 1rem;
-    
 }
 
 .answer p{
@@ -1094,4 +1039,11 @@ textarea{
 
 #main_start{
     margin-bottom: 0;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }

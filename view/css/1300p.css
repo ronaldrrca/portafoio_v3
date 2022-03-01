@@ -1,9 +1,6 @@
 #projects{
-    /* background-color: var(--dark-blue); */
-    /* display: grid; */
     grid-template-columns: repeat(3, 33.333%);
     grid-template-rows: repeat(2, auto);
-    /* grid-gap: 2rem; */
 }
 
 #introducingMyself_info_socialMediaIcons img:hover{
@@ -26,23 +23,20 @@
 
 #contact_form form{
     width: 45%;
- } 
+} 
 
- #contact_data{
+#contact_data{
      width: 60%;
      margin: 0 auto;
      margin-bottom: 8rem;
  }
 
-
-
- #services_image{
+#services_image{
      width: 35%;
      margin-bottom: 0;
-  
 }
 
- #services_image img{
+#services_image img{
     width: 100%;
 }
 
@@ -52,11 +46,9 @@
 
 #services_container{
     flex-direction: row;
-     padding: 6rem 2rem;
-     /* justify-content: space-around; */
+    padding: 6rem 2rem;
     align-items: center;
-    
- }
+}
 
 #services_content{
     justify-content: space-around;
@@ -96,8 +88,6 @@ input[type="submit"]:hover{
     transition: all 0.3s;
 }
 
-
-
 #grid_xamples{
     flex-direction: row;
     justify-content: space-around;
@@ -106,7 +96,6 @@ input[type="submit"]:hover{
 
 #grid_xample_1, #grid_xample_2{
     width: 45%;
-    /* min-height: 10rem; */
 }
 
 hr{
@@ -116,7 +105,6 @@ hr{
 #grid_xamples p{
     height: 7.2rem;
 }
-
 
 .select_buttons div:hover{
     cursor: pointer;
@@ -137,18 +125,10 @@ hr{
 
 #dropDownMenu_xample_1 li:hover{
     opacity: 0.8;
-   
 }
-
-/* #dropDownMenu_xample_1, #dropDownMenu_xample_2{
-    width: 45%;
-    background-color: rebeccapurple;
-    
-} */
 
 .dropDownMenu_xample_container{
     width: 45%;
-  
 }
 
 #dropDownMenu_xamples{

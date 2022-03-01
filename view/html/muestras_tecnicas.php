@@ -164,29 +164,6 @@
                             </div>
                         </article>
 
-                        <!-- <article class="item_faq">
-                            <div id="question_4" class="question">
-                                <img src="../assets/icons/add_circle_outline_black_24dp.svg" alt="signo de mas">
-                                <p>¿Pregunta 4 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quo ipsam incidunt, harum iste nemo obcaecati quibusdam?</p>
-                            </div>
-                            <div id="answer_4" class="answer">
-                                <p>Respuesta 4.  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus labore voluptatum maxime 
-                                    tempora dicta, dignissimos totam aperiam fuga sit eius vel voluptatibus accusantium officia nisi, rem asperiores ducimus cum. Illo.</p>
-                            </div>
-                        </article>
-
-                        <article class="item_faq">
-                            <div id="question_5" class="question">
-                                <img src="../assets/icons/add_circle_outline_black_24dp.svg" alt="signo de mas">
-                                <p>¿Pregunta 5 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quo ipsam incidunt, harum iste nemo obcaecati quibusdam?</p>
-                            </div>
-                            <div id="answer_5" class="answer">
-                                <p>Respuesta 5. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus labore voluptatum maxime 
-                                    tempora dicta, dignissimos totam aperiam fuga sit eius vel voluptatibus accusantium officia nisi, rem asperiores ducimus cum. Illo.</p>
-                            </div>
-                        </article> -->
-
-           
                     </section><!--dropDownMenu_xample_2 close-->
                 </div><!--dropDownMenu_xample_container close-->
                 

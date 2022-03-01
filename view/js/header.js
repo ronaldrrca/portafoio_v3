@@ -28,8 +28,6 @@ close_menu.addEventListener("click", () => {
 })
 
 
-
-
 //Cambiando el color al item del menú, según la página en la que se encuentre
 switch (fileName) {
     case "inicio":
