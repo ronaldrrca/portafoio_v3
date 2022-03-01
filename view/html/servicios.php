@@ -36,7 +36,7 @@
                         <div id="services_otherServices_section">
                             <h2>Otros servicios:</h2>
                             <ul id="other_services">
-                                <li>Adquisición de hosting y dominios</li>
+                                <li>Adquisición de hostings y dominios</li>
                                 <li>Despliegue de productos</li>
                             </ul>
                         </div>

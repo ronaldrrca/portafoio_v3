@@ -171,7 +171,7 @@ footer p{
     margin-top: 2rem;
     border-radius: 2rem;
     background-color: var(--light-blue);
-    border: 1px solid #ff0000;
+    border: 1px solid #FF6600;
     outline: #ffffff solid 1px;
     color: #ffffff;
 }
@@ -207,10 +207,10 @@ footer p{
     color: #ffffff;
 }
 
-.littleRedLine{
+.littleOrangeLine{
     width: 5rem;
     height: 1rem;
-    background-color: #ff0000;
+    background-color: #FF6600;
     margin-bottom: 3rem;
 }
 
@@ -226,6 +226,7 @@ footer p{
 .project img{
     width: 3rem;
     margin-bottom: 1rem;
+    
 }
 
 #projects > div{
@@ -256,6 +257,12 @@ footer p{
     height: auto;
     min-height: 10rem;
     padding: 5rem 1rem;
+}
+
+#myProjects_title, #aboutMe h2{
+    color: #ffffff;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
 }
 
 #aboutMe_content{
@@ -295,8 +302,20 @@ footer p{
     font-weight: bold;
 }
 
+.contactData_orangeLetter{
+    color: #FF6600;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
 .contactData_whiteLetter{
+    color: #ffffff;
+    font-size: 1.6rem;
+}
+
+.contactData_blackLetter{
     color: #000000;
+    font-size: 1.6rem;
 }
 
 #aboutMe_contactData{
@@ -349,6 +368,11 @@ h1{
     background-color: var(--dark-blue);
 }
 
+#contact_form h2{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
 .placeholder_red::placeholder{
     color: red;
 }
@@ -369,6 +393,8 @@ input[type="email"]
     margin-bottom: 2rem;
     padding-left: 0.5rem;
     font-size: 1.4rem;
+    background-color: var();
+    border-top: 0;
 }
 
 input[type="text"]:focus, 
@@ -401,7 +427,7 @@ textarea{
     margin-top: 5rem;
     border-radius: 2rem;
     background-color: var(--light-blue);
-    border: 1px solid #ff0000;
+    border: 1px solid #FF6600;
     outline: #ffffff solid 1px;
     color: #ffffff;
     font-size: 1.6rem;
@@ -413,7 +439,7 @@ textarea{
     align-items: center;
     width: 100%;
     height: auto;
-    background-color: var(--light-blue);
+    background-color: #ffffff;
     /* margin-bottom: 3rem; */
 }
 
@@ -467,7 +493,7 @@ textarea{
 #products li, #other_services li{
     margin-bottom: 1rem;
     font-size: 1.4rem;
-    color: #ffffff;
+    color: #000000;
 }
 
 
@@ -496,7 +522,7 @@ textarea{
 
 .skills_card h2{
     text-align: left;
-    color: red;
+    color: #FF6600;
     margin-bottom: 2rem;
 }
 
@@ -662,7 +688,7 @@ textarea{
 
 .see_more{
     font-size: 1.3rem;
-    color: #ff0000;
+    color: #FF6600;
 }
 
 #grid_xamples{
@@ -1066,6 +1092,6 @@ textarea{
     font-weight: bold;
 }
 
-/* .item_faq{
-    height: 8rem;
-} */
+#main_start{
+    margin-bottom: 0;
+}

@@ -16,7 +16,7 @@
     <header>
             <?php include 'header.php'?>
     </header>
-    <main>
+    <main id="main_start">
             <section id="introducingMyself">
                 <figure id="introducingMyself_photo">
                         <img src="../assets/images/Sin título-1.png" alt="">
@@ -38,10 +38,10 @@
             <section id="myProjects">
                 <h1>Desarrollo web responsivo, landing pages, páginas, sitios y aplicaciones web</h1>
                 <p id="myProjects_title">Proyectos recientes</p>
-                <div class="littleRedLine"></div>
+                <div class="littleOrangeLine"></div>
                 <div id="projects">
                         <div class="project">
-                            <img src="../assets/icons/project_icon.svg" alt="">
+                            <img src="../assets/icons/apps_white_24dp.svg" alt="">
                             <h3>App piloto Innova ET</h3>
                             <p>
                                 Web App para diagnóstico de innovación empresarial. Consta de 2 diagnósticos (inicial y final), que generan el resultado del estado de la empresa,
@@ -49,14 +49,14 @@
                             </p>
                         </div>
                         <div class="project">
-                            <img src="../assets/icons/project_icon.svg" alt="">
+                            <img src="../assets/icons/public_white_24dp.svg" alt="">
                             <h3>Ecoculture - Landing page</h3>
                             <p>
                                 Landing page con diseño responsivo, cuenta con un slider de imágenes automático y manual de imágenes un formulario que envía los datos ingresados a un correo electrónico.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
                         <div class="project">
-                            <img src="../assets/icons/project_icon.svg" alt="">
+                            <img src="../assets/icons/sports_esports_white_24dp.svg" alt="">
                             <h3>Memory Game</h3>
                             <p>
                                 Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 
@@ -69,7 +69,7 @@
             <section id="aboutMe">
                     <h2>Sobre mi</h2>
                     <p id="aboutMe_subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet veniam error reiciendis ea soluta provident molestiae mollitia sit facilis quaerat minima, ex ducimus consectetur iure libero consequuntur, repellat natus enim?</p>
-                    <div class="littleRedLine"></div>
+                    <div class="littleOrangeLine"></div>
                     <div id="aboutMe_content">
                         <figure id="aboutMe_content_photo">
                                 <img src="../assets/images/Sin título-1.png" alt="">
@@ -79,19 +79,19 @@
                             <p id="aboutMe_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem temporibus ut unde reprehenderit officia atque vel commodi id. Nisi quis atque, amet magnam nesciunt earum. Odio sunt laborum maiores beatae!</p>
                             <div id="aboutMe_contactData">
                                 <div>
-                                    <p class="contactData_redLetter">Nombre:</p>
+                                    <p class="contactData_orangeLetter">Nombre:</p>
                                     <p class="contactData_whiteLetter">Ronald Rodríguez Campillo</p>
                                 </div>
                                 <div>
-                                    <p class="contactData_redLetter">Teléfono:</p>
+                                    <p class="contactData_orangeLetter">Teléfono:</p>
                                     <p class="contactData_whiteLetter">+57 3003581311</p>
                                 </div>
                                 <div>
-                                    <p class="contactData_redLetter">Email:</p>
+                                    <p class="contactData_orangeLetter">Email:</p>
                                     <p class="contactData_whiteLetter">ronaldrrca@gmail.com</p>
                                 </div>
                                 <div>
-                                    <p class="contactData_redLetter">Linkedin:</p>
+                                    <p class="contactData_orangeLetter">Linkedin:</p>
                                     <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">linkedin.com/in/ronald-rodríguez-campillo-66b12771</a>
                                 </div>
                             </div>

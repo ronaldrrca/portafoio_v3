@@ -86,7 +86,7 @@
 
 #services_products_section, #services_otherServices_section{
     width: 45%;
-    background-color: var(--dark-blue);
+    background-color: #ffffff;
 }
 
 #services_image img{

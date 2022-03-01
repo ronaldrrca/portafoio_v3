@@ -14,13 +14,13 @@
     <p id="header_myBriefcase">Mi Portafolio - Sitio en construcción</p>
     <img id="menu_icon" src="../assets/icons/menu_white_24dp.svg" alt="icono del menu">
     <ul id="horizontal_menu">
-        <a href="inicio.php"><li>Inicio</li></a>
-        <a href="servicios.php"><li>Servicios</li></a>
-        <a href="habilidades.php"><li>Habilidades</li></a>
-        <a href="portafolio.php"><li>Portafolio</li></a>
-        <a href="muestras_tecnicas.php"><li>Muestras técnicas</li></a>
-        <a href="#"><li>Blog</li></a>
-        <a href="contactame.php"><li>Contáctame</li></a>
+        <a href="inicio.php"><li id="start_menu_button">Inicio</li></a>
+        <a href="servicios.php"><li id="services_menu_button">Servicios</li></a>
+        <a href="habilidades.php"><li id="skills_menu_button">Habilidades</li></a>
+        <a href="portafolio.php"><li id="briefcase_menu_button">Portafolio</li></a>
+        <a href="muestras_tecnicas.php"><li id="xamples_menu_button">Muestras técnicas</li></a>
+        <a href="#"><li id="blog_menu_button">Blog</li></a>
+        <a href="contactame.php"><li id="contact_menu_button">Contáctame</li></a>
     </ul>
     <ul id="dropDown_menu">
         <a id="close_menu" href="#"><li>X</li></a>

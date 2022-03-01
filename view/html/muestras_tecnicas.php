@@ -133,7 +133,7 @@
                     <section id="dropDownMenu_xample_2">
                         <article class="item_faq">
                             <div id="question_1" class="question">
-                                <img src="../assets/icons/add_circle_outline_black_24dp.svg" alt="signo de mas">
+                                <img src="../assets/icons/add_circle_outline_white_24dp.svg" alt="signo de mas">
                                 <p>¿Pregunta 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quo ipsam incidunt, harum iste nemo obcaecati quibusdam?</p> 
                             </div>
                             <div id="answer_1" class="answer">
@@ -144,7 +144,7 @@
 
                         <article class="item_faq">
                             <div id="question_2" class="question">
-                                <img src="../assets/icons/add_circle_outline_black_24dp.svg" alt="signo de mas">
+                                <img src="../assets/icons/add_circle_outline_white_24dp.svg" alt="signo de mas">
                                 <p>¿Pregunta 2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quo ipsam incidunt, harum iste nemo obcaecati quibusdam?</p>
                             </div>
                             <div id="answer_2" class="answer">
@@ -155,7 +155,7 @@
 
                         <article class="item_faq">
                             <div id="question_3" class="question">
-                                <img src="../assets/icons/add_circle_outline_black_24dp.svg" alt="signo de mas">
+                                <img src="../assets/icons/add_circle_outline_white_24dp.svg" alt="signo de mas">
                                 <p>¿Pregunta 3 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quo ipsam incidunt, harum iste nemo obcaecati quibusdam?</p>
                             </div>
                             <div id="answer_3" class="answer">
