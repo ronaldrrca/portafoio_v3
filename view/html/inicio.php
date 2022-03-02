@@ -19,7 +19,7 @@
     <main id="main_start">
             <section id="introducingMyself">
                 <figure id="introducingMyself_photo">
-                        <img src="../assets/images/main_image_1.png" alt="">
+                        <img src="../assets/images/main_image_1.png" alt="imagen de programador web">
                         <figcaption><a href="https://www.freepik.es/vectores/digital" target="_blank">Vector de Digital creado por freepik - www.freepik.es</a></figcaption>
                 </figure>
                 <div id="introducingMyself_info">
@@ -42,7 +42,7 @@
                 <div class="littleOrangeLine"></div>
                 <div id="projects">
                         <div class="project">
-                            <img src="../assets/icons/apps_white_24dp.svg" alt="">
+                            <img src="../assets/icons/apps_white_24dp.svg" alt="icono de apps">
                             <h3>App piloto Innova ET</h3>
                             <p>
                                 Web App para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado de la empresa,
@@ -50,7 +50,7 @@
                             </p>
                         </div>
                         <div class="project">
-                            <img src="../assets/icons/public_orange_24dp.svg" alt="">
+                            <img src="../assets/icons/public_orange_24dp.svg" alt="icono de planeta tierra">
                             <h3>Ecoculture - Landing page</h3>
                             <p>
                                 Landing page con diseño responsivo, cuenta con un slider de imágenes automático y manual de imágenes un formulario que envía los datos ingresados a un correo electrónico.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
@@ -73,7 +73,7 @@
                     <div class="littleOrangeLine"></div>
                     <div id="aboutMe_content">
                         <figure id="aboutMe_content_photo">
-                                <img src="../assets/images/main_image_2.png" alt="">
+                                <img src="../assets/images/main_image_2.png" alt="icono de programador web">
                                 <figcaption><a href='https://www.freepik.es/vectores/personas' target="_blank">Vector de Personas creado por pch.vector - www.freepik.es</a></figcaption>
                         </figure>
                         <div id="aboutMe_content_info">

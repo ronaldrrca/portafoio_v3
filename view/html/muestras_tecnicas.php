@@ -104,11 +104,11 @@
                     <p>Menú principal con submenús desplegables en el <b>Item_1</b> y en el sub <b>Item_1.3</b>, mediante la pseudo clase "hover".</p>
                     <div id="dropDownMenu_xample_1"><!--dropDownMenu_xample_1 open-->
                             <ul id="dropDMX_menu">
-                                <li id="menuItem_1" class="menuItem">Item_1 <img class="expand_more" src="../assets/icons/expand_more_white_24dp.svg" alt="">
+                                <li id="menuItem_1" class="menuItem">Item_1 <img class="expand_more" src="../assets/icons/expand_more_white_24dp.svg" alt="icono de expancion">
                                     <ul id="dropDMX_submenu_item_1" class="dropDMX_submenu">
                                         <li id="submenu_item_1_1" class="subMenuItem">Item 1.1</li>
                                         <li id="submenu_item_1_2" class="subMenuItem">Item 1.2</li>
-                                        <li id="submenu_item_1_3" class="subMenuItem">Item 1.3 <img class="expand_more_hor" src="../assets/icons/expand_more_white_24dp.svg" alt="">
+                                        <li id="submenu_item_1_3" class="subMenuItem">Item 1.3 <img class="expand_more_hor" src="../assets/icons/expand_more_white_24dp.svg" alt="icono de expansion">
                                             <ul id="dropDMX_submenu_item_1_3" class="dropDMX_submenu">
                                                 <li id="submenu_item_1_3_1" class="subMenuItem">Item 1.3.1</li>
                                                 <li id="submenu_item_1_3_2" class="subMenuItem">Item 1.3.2</li>
