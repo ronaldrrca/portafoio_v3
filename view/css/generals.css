@@ -128,17 +128,26 @@ footer p{
 }
 
 #introducingMyself_photo{
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     margin-bottom: 3rem;
 }
 
+#introducingMyself_photo a{
+    color: #ffffff;
+}
+
 #introducingMyself_photo img{
-    width: 40%;
+    width: 80%;
+}
+
+#introducingMyself_photo figcaption{
+    margin-bottom: 3rem;
 }
 
 #aboutMe_content_photo img{
-    width: 40%;
+    width: 80%;
 }
 
 #introducingMyself_info_socialMediaIcons{
@@ -280,8 +289,14 @@ footer p{
 
 #aboutMe_content_photo{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 5rem;
+}
+
+#aboutMe_content_photo a{
+    font-size: 0.8rem;
 }
 
 #aboutMe_content_info{
@@ -317,7 +332,7 @@ footer p{
 }
 
 #aboutMe a{
-    font-size: 1.4rem;
+    font-size: 0.8rem;
     color: #ffffff;
 }
 
@@ -443,7 +458,7 @@ textarea{
     margin-bottom: 4rem;
 }
 
-#services_image figcaption{
+#services_image figcaption a{
     color: #000000;
     padding: 0.5rem 0 0 0.5rem;
     width: 100%;

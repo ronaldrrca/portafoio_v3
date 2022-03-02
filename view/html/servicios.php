@@ -9,7 +9,7 @@
                                         aplicaciones web, diseño responsivo, web development, 
                                         web pages, web sites, web apps, responsive design.">
     <meta name="robots" content="index.follow">
-    <link rel="shortcut icon" href="#" /><!--Fixing favicon-->
+    <link rel="shortcut icon" href="../assets/icons/public_white_24dp.svg"/>
     <title>Ronald Rodríguez Campillo</title>
 </head>
 <body>
@@ -20,8 +20,8 @@
             <h1>Servicios</h1>
             <div id="services_container">
                     <figure id="services_image">
-                        <img src="../assets/images/services-image.jpg" alt="">
-                        <figcaption>foto: Igor Miske - @igormiske</figcaption>
+                        <img src="../assets/images/services-image.png" alt="">
+                        <figcaption><a href="https://www.freepik.es/vectores/tecnologia" target="_blank">Vector de Tecnología creado por vectorjuice - www.freepik.es</a></figcaption>
                     </figure>
                     <div id="services_content">
                         <div id="services_products_section">

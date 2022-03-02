@@ -9,7 +9,7 @@
                                         aplicaciones web, diseño responsivo, web development, 
                                         web pages, web sites, web apps, responsive design.">
     <meta name="robots" content="index.follow">
-    <link rel="shortcut icon" href="#" /><!--Fixing favicon-->
+    <link rel="shortcut icon" href="../assets/icons/public_white_24dp.svg"/>
     <title>Ronald Rodríguez Campillo</title>
 </head>
 <body>
@@ -27,11 +27,11 @@
                         </div>
                         <h3>Descripción:</h3>
                         <p>
-                            Web App para diagnóstico de innovación empresarial, Consta de 2 diagnósticos (inicial y final), que 
-                            generan el resultado del estado de la empresa, con sus respectivos gráficos y recomendaciones establecidas 
-                            previamente según los resultados obtenidos. Posterior al diagnóstico final, se genera un resultado comparativo 
-                            entre los dos diagnósticos. Cuenta con control de usuarios según el perfil, diseño y desarrollo responsivo 
-                            (Adaptable a las pantallas de diferentes dispositivos), y la base de datos fue creada en MySQL.
+                            Web App para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado 
+                            de la empresa, con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. 
+                            Posterior al diagnóstico final, se genera un resultado comparativo entre los dos diagnósticos. Cuenta con control de 
+                            usuarios según el perfil, diseño y desarrollo responsivo (Adaptable a las pantallas de diferentes dispositivos), y la 
+                            base de datos fue creada en MySQL.
                         </p>
                         <div class="float_left">
                             <h3>Link del repositorio:</h3>

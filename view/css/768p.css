@@ -8,19 +8,19 @@
     margin-right: 4rem;
 }
 
-#introducingMyself_photo{
-    width: auto;
-   
-}
 
 #introducingMyself_photo{
     order: 2;
+    width: auto;
     height: 100%;
-    align-items: flex-end;
+}
+
+#introducingMyself_photo a{
+    font-size: 0.8rem;
 }
 
 #introducingMyself_photo img{
-    width: 25rem;
+    width: 100%;
     height: auto;
 }
 
@@ -45,8 +45,12 @@
     width: 21.4rem;
 }
 
+#aboutMe_content_photo{
+    margin-top: 0;
+}
+
 #aboutMe_content_photo img{
-    width: 18rem;
+    width: 30rem;
 }
 
 #aboutMe_content_info{
@@ -94,11 +98,6 @@
 #services_image{
     width: 80%;
     
-}
-
-#services_image figcaption{
-    width: 80%;
-    padding-left: 0;
 }
 
 #skills_container{

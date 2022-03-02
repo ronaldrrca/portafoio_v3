@@ -23,11 +23,11 @@ $message .= "Enviado el: " . date('d/m/Y', time()) . ", a las " . date("h:i:sa")
 $message .= "Mensaje: " . $text . " \r\n";
 
 
-mail($to, $subject, $message, $header);
 
-
-
-echo '<script>alert("probando alert php");</script>';
+if (mail($to, $subject, $message, $header)) {
+    echo '<script>alert("Mensaje enviado con éxito, de ser necesario pronto recibirás una respuesta.");</script>';
+}else{
+    echo '<script>alert("Ha ocurrido un error, por favor contáctame a través de otro medio.");</script>';
+}
 echo '<meta http-equiv="refresh" content="0; url=../view/html/contactame.php">';
-
 ?>

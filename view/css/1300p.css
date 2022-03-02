@@ -8,6 +8,14 @@
     transition: all 0.3s;
 }
 
+/* #introducingMyself_photo{
+    align-items: flex-start;
+} */
+
+#introducingMyself_photo img{
+    width: 50rem;
+}
+
 .project{
     cursor: pointer;
 }
@@ -15,10 +23,6 @@
 .project:hover{
     transform: scale(1.02);
     transition: all 0.3s;
-}
-
-#aboutMe_content_photo img{
-    width: 20rem;
 }
 
 #contact_form form{
@@ -37,10 +41,6 @@
 }
 
 #services_image img{
-    width: 100%;
-}
-
-#services_image figcaption{
     width: 100%;
 }
 

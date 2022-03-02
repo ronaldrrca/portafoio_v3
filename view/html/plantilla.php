@@ -9,7 +9,7 @@
                                         aplicaciones web, diseño responsivo, web development, 
                                         web pages, web sites, web apps, responsive design.">
     <meta name="robots" content="index.follow">
-    <link rel="shortcut icon" href="#" /><!--Fixing favicon-->
+    <link rel="shortcut icon" href="../assets/icons/public_white_24dp.svg"/>
     <title>Ronald Rodríguez Campillo</title>
 </head>
 <body>

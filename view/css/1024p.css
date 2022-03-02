@@ -43,6 +43,18 @@ header{
     width: 30rem;
 }
 
+#aboutMe_content_photo img{
+    width: 35rem;
+}
+
+#introducingMyself_photo a{
+    font-size: 1rem;
+}
+
+#aboutMe_content_photo a{
+    font-size: 1rem;
+}
+
 #projects{
     grid-template-columns: repeat(2, 50%);
     grid-template-rows: repeat(3, auto);
@@ -57,7 +69,5 @@ header{
     width: 60%;
 }
 
-#services_image figcaption{
-    width: 60%;
-}
+
 

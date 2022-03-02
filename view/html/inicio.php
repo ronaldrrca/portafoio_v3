@@ -9,7 +9,7 @@
                                         aplicaciones web, diseño responsivo, web development, 
                                         web pages, web sites, web apps, responsive design.">
     <meta name="robots" content="index.follow">
-    <link rel="shortcut icon" href="#" /><!--Fixing favicon-->
+    <link rel="shortcut icon" href="../assets/icons/public_white_24dp.svg"/>
     <title>Ronald Rodríguez Campillo</title>
 </head>
 <body>
@@ -19,7 +19,8 @@
     <main id="main_start">
             <section id="introducingMyself">
                 <figure id="introducingMyself_photo">
-                        <img src="../assets/images/Sin título-1.png" alt="">
+                        <img src="../assets/images/main_image_1.png" alt="">
+                        <figcaption><a href="https://www.freepik.es/vectores/digital" target="_blank">Vector de Digital creado por freepik - www.freepik.es</a></figcaption>
                 </figure>
                 <div id="introducingMyself_info">
                     <div id="introducingMyself_info_socialMediaIcons">
@@ -44,12 +45,12 @@
                             <img src="../assets/icons/apps_white_24dp.svg" alt="">
                             <h3>App piloto Innova ET</h3>
                             <p>
-                                Web App para diagnóstico de innovación empresarial. Consta de 2 diagnósticos (inicial y final), que generan el resultado del estado de la empresa,
+                                Web App para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado de la empresa,
                                 con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
                         <div class="project">
-                            <img src="../assets/icons/public_white_24dp.svg" alt="">
+                            <img src="../assets/icons/public_orange_24dp.svg" alt="">
                             <h3>Ecoculture - Landing page</h3>
                             <p>
                                 Landing page con diseño responsivo, cuenta con un slider de imágenes automático y manual de imágenes un formulario que envía los datos ingresados a un correo electrónico.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
@@ -68,15 +69,16 @@
             </section>
             <section id="aboutMe">
                     <h2>Sobre mi</h2>
-                    <p id="aboutMe_subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet veniam error reiciendis ea soluta provident molestiae mollitia sit facilis quaerat minima, ex ducimus consectetur iure libero consequuntur, repellat natus enim?</p>
+                    <p id="aboutMe_subtitle">Mi carrera está orientada hacia el desarrollo web, y aunque en un principio le he dedicado la mayor parte del tiempo al Frontend, también tengo nociones de Backend.</p>
                     <div class="littleOrangeLine"></div>
                     <div id="aboutMe_content">
                         <figure id="aboutMe_content_photo">
-                                <img src="../assets/images/Sin título-1.png" alt="">
+                                <img src="../assets/images/main_image_2.png" alt="">
+                                <figcaption><a href='https://www.freepik.es/vectores/personas' target="_blank">Vector de Personas creado por pch.vector - www.freepik.es</a></figcaption>
                         </figure>
                         <div id="aboutMe_content_info">
                             <h2>Hola</h2>
-                            <p id="aboutMe_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem temporibus ut unde reprehenderit officia atque vel commodi id. Nisi quis atque, amet magnam nesciunt earum. Odio sunt laborum maiores beatae!</p>
+                            <p id="aboutMe_text">Si tienes alguna propuesta, solicitud o consulta profesional, estoy dispuesto a escucharla. Puedes contactarme por cualquiera de los siguientes medios o enviarme un mensaje a través del formulario en la página de contacto.</p>
                             <div id="aboutMe_contactData">
                                 <div>
                                     <p class="contactData_orangeLetter">Nombre:</p>
