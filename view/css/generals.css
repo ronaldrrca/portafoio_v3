@@ -303,6 +303,11 @@ footer p{
     padding-top: 3rem;
 }
 
+#aboutMe_contactData a{
+    font-size: 1.4rem;
+    color: #ffffff;
+}
+
 .contactData_blueLetter{
     color: var(--dark-blue);
     font-weight: bold;
@@ -331,7 +336,7 @@ footer p{
     grid-gap: 2rem
 }
 
-#aboutMe a{
+#aboutMe figcaption a{
     font-size: 0.8rem;
     color: #ffffff;
 }
@@ -358,6 +363,11 @@ h1{
     grid-gap: 2rem;
     background-color: #ffffff;
     padding: 0 1rem;
+}
+
+#contact_data a{
+    font-size: 1.4rem;
+    color: #000000;
 }
 
 #contact_form{

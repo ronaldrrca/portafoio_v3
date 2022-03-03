@@ -93,6 +93,10 @@
                                     <p class="contactData_whiteLetter">ronaldrrca@gmail.com</p>
                                 </div>
                                 <div>
+                                    <p class="contactData_orangeLetter">GitHub:</p>
+                                    <a href="https://github.com/ronaldrrca" target="_blank">https://github.com/ronaldrrca</a>
+                                </div>
+                                <div>
                                     <p class="contactData_orangeLetter">Linkedin:</p>
                                     <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">linkedin.com/in/ronald-rodríguez-campillo-66b12771</a>
                                 </div>

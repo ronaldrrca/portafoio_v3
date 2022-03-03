@@ -8,16 +8,8 @@
     transition: all 0.3s;
 }
 
-/* #introducingMyself_photo{
-    align-items: flex-start;
-} */
-
 #introducingMyself_photo img{
     width: 50rem;
-}
-
-.project{
-    cursor: pointer;
 }
 
 .project:hover{

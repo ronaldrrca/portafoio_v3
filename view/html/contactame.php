@@ -33,13 +33,14 @@
                             <p class="contactData_blackLetter">ronaldrrca@gmail.com</p>
                         </div>
                         <div>
-                            <p class="contactData_orangeLetter">Linkedin:</p>
-                            <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">
-                                <p class="contactData_blackLetter">ronald-rodríguez-campillo-66b12771</p>
-                            </a>
-                            
+                            <p class="contactData_orangeLetter">GitHub:</p>
+                            <a href="https://github.com/ronaldrrca" target="_blank">https://github.com/ronaldrrca</a>
+                        </div>
                         <div>
-                              
+                            <p class="contactData_orangeLetter">Linkedin:</p>
+                            <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank">linkedin.com/in/ronald-rodríguez-campillo-66b12771
+                            </a>
+                        <div>
                     </section>
                     <section id="contact_form">
                             <h2>Envía un mensaje</h2>
