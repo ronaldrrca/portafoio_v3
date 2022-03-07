@@ -45,7 +45,7 @@
                             <img src="../assets/icons/apps_white_24dp.svg" alt="icono de apps">
                             <h3>App piloto Innova ET</h3>
                             <p>
-                                Web App para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado de la empresa,
+                                Web App privada para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado de la empresa,
                                 con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
