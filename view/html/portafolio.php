@@ -74,6 +74,7 @@
                             <h3>Tipo:</h3>
                             <p>Juego</p>
                         </div>
+                        <a href="../html/memory_game.php" id="play_memoryGame">Clic para jugar.</a>
                         <h3>Descripción:</h3>
                         <p>
                             Juego de memoria con imágenes construido con JavaScript, que incluye cronómetro y contador de intentos. Versión básica a la cual se le agregarán nuevas 

@@ -136,3 +136,18 @@
 }
 
 
+#box_memoryGame_container{
+    grid-gap: 1rem;
+}
+
+#box_memoryGame_container > div{
+    width: 6rem;
+    height: 6rem;
+}
+
+#instructions_memoryGame{
+    width: 50%;
+}
+
+
+
