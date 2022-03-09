@@ -149,5 +149,27 @@
     width: 50%;
 }
 
+.blog_image_container{
+    width: 45%;
+    align-items: center;
+    margin-right: 0;
+}
 
+.blog_image_container img{
+    width: 80%;
+    
+}
+
+#blog_container h2{
+    text-align: center;
+
+}
+
+.image_credit{
+    display: block;
+}
+
+.image_credit a{
+    color: #000000;
+}
 

@@ -136,3 +136,20 @@ hr{
     display: flex;
     align-items: flex-start;
 }
+
+#blog_container{
+    flex-direction: row;
+    padding: 0 5rem;
+}
+
+#blog_container section{
+    width: 80%;
+}  
+
+#blog_container aside{
+    width: 20%;
+    height: 35rem;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 80px;
+}  

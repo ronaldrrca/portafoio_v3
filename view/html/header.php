@@ -20,7 +20,7 @@
             <a href="habilidades.php"><li id="skills_menu_button">Habilidades</li></a>
             <a href="portafolio.php"><li id="briefcase_menu_button">Portafolio</li></a>
             <a href="muestras_tecnicas.php"><li id="xamples_menu_button">Muestras técnicas</li></a>
-            <a href="#"><li id="blog_menu_button">Blog</li></a>
+            <a href="../html/blog.php"><li id="blog_menu_button">Blog</li></a>
             <a href="contactame.php"><li id="contact_menu_button">Contáctame</li></a>
         </ul>
         <ul id="dropDown_menu">
@@ -30,7 +30,7 @@
             <a href="habilidades.php"><li>Habilidades</li></a>
             <a href="portafolio.php"><li>Portafolio</li></a>
             <a href="muestras_tecnicas.php"><li>Muestras técnicas</li></a>
-            <a href="#"><li>Blog</li></a>
+            <a href="../html/blog.php"><li>Blog</li></a>
             <a href="contactame.php"><li>Contáctame</li></a>
         </ul>
     </nav>

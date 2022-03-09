@@ -69,5 +69,24 @@ header{
     width: 60%;
 }
 
+.blog_image_container img{
+    width: 100%;
+}
+
+.blog_image_container{
+
+    width: 40%;
+    float: left;
+   
+}
+
+#blog_container article{
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+#blog_container article:hover{
+    border: 2px solid var(--light-blue);
+}
 
 
