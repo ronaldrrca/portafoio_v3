@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="desarrollo web, landing pages, paginas web, sitios web, 
                                         aplicaciones web, diseño responsivo, web development, 
                                         web pages, web sites, web apps, responsive design.">
@@ -19,7 +18,8 @@
     <main id="main_start">
             <section id="introducingMyself">
                 <figure id="introducingMyself_photo">
-                        <img src="../assets/images/main_image_1.png" alt="imagen de programador web">
+                        <img id="main_image_1_small" src="../assets/images/programador-web-trabajando-1-360x240p.webp" alt="programador web trabajando">
+                        <img id="main_image_1_medium" src="../assets/images/programador-web-trabajando-1-399x266p.webp" alt="programador web trabajando">
                         <figcaption><a href="https://www.freepik.es/vectores/digital" target="_blank">Vector de Digital creado por freepik - www.freepik.es</a></figcaption>
                 </figure>
                 <div id="introducingMyself_info">
@@ -73,7 +73,8 @@
                     <div class="littleOrangeLine"></div>
                     <div id="aboutMe_content">
                         <figure id="aboutMe_content_photo">
-                                <img src="../assets/images/main_image_2.png" alt="icono de programador web">
+                                <img id="main_image_2_small" src="../assets/images/programador-web-trabajando-2-360x212p.webp" alt="programador web trabajando">
+                                <img id="main_image_2_medium" src="../assets/images/programador-web-trabajando-2-399x235p.webp" alt="programador web trabajando">
                                 <figcaption><a href='https://www.freepik.es/vectores/personas' target="_blank">Vector de Personas creado por pch.vector - www.freepik.es</a></figcaption>
                         </figure>
                         <div id="aboutMe_content_info">
