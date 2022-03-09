@@ -8,9 +8,7 @@
     transition: all 0.3s;
 }
 
-#introducingMyself_photo img{
-    width: 50rem;
-}
+
 
 .project:hover{
     transform: scale(1.02);
@@ -137,16 +135,16 @@ hr{
     align-items: flex-start;
 }
 
-#blog_container{
+#blog_container, #blogPost_container{
     flex-direction: row;
     padding: 0 5rem;
 }
 
-#blog_container section{
+#blog_container section, #blogPost_container section{
     width: 80%;
 }  
 
-#blog_container aside{
+#blog_container aside, #blogPost_container aside{
     width: 20%;
     height: 35rem;
     position: -webkit-sticky; /* Safari */

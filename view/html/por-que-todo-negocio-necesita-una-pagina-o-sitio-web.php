@@ -18,12 +18,11 @@
     </header>
     <main>
         <h1>¿Por qué todo negocio necesita una página o sitio web?</h1>
-        <div id="blog_container">
+        <div id="blogPost_container">
             <section>
                     <article>
-                        <!-- <h2>¿Por qué todo negocio necesita una página o sitio web?</h2> -->
                         <figure class="blog_image_container">
-                            <img src="../assets/images/blog-1.jpg" alt="">
+                            <img src="../assets/images/blog-1.jpg" alt="imagen de tienda online">
                             <figcaption class="image_credit"><a href='https://www.freepik.es/vectores/negocios' target="_blank">Vector de Negocios creado por redgreystock - www.freepik.es</a></figcaption>
                         </figure>
                         <p>La presencia online puede tener un impacto importante en el éxito del negocio, debido a que, en esta era digital los clientes suelen visitar los sitios web antes de 
@@ -73,7 +72,7 @@
                             más información y obtener algún medio de contacto para enviarle futuras ofertas, por ejemplo. Además, si quieres hacer alguna publicidad mediante los ads de Google, Faceboo, Twitter, etc, necesitaras una página o sitio 
                             web para que tus clientes puedan llegar a través de este medio.</p>
                         <div id="blog_credits">
-                            <p><b>Author:</b> Ronald Rodríguez</p>
+                            <p><b>Author:</b> Ronald Rodríguez Campillo</p>
                             <p><b>Fecha:</b> 08 de marzo de 2022</p>
                             <p><b>Referecias:</b> <a href="https://www.forbes.com/sites/theyec/2020/02/03/why-every-business-needs-a-website/?sh=44a8f18c6e75" target="_blank">www.forbes.com</a> </p>
                         </div>

@@ -8,7 +8,7 @@
 <body>
     <h2>Entradas recientes</h2>
     <ul>
-        <li><a href="../html/blogPost_1.php">¿Por qué todo negocio necesita una página o sitio web?</a></li>
+        <li><a href="../html/por-que-todo-negocio-necesita-una-pagina-o-sitio-web.php">¿Por qué todo negocio necesita una página o sitio web?</a></li>
         <li><a href="#">¿Por qué todo negocio necesita una página o sitio web?</a></li>
         <li><a href="#">¿Por qué todo negocio necesita una página o sitio web?</a></li>
         <li><a href="#">¿Por qué todo negocio necesita una página o sitio web?</a></li>

@@ -12,7 +12,7 @@
 </head>
 <body>
     <nav>
-        <p id="header_myBriefcase">Mi Portafolio</p>
+        <p id="header_myBriefcase">Ronald Rodríguez Campillo</p>
         <img id="menu_icon" src="../assets/icons/menu_white_24dp.svg" alt="icono del menu">
         <ul id="horizontal_menu">
             <a href="inicio.php"><li id="start_menu_button">Inicio</li></a>

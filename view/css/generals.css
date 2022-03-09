@@ -118,13 +118,14 @@ footer p{
 
 #introducingMyself_info, #introducingMyself_photo{
     display: flex;
-    width: 100%;
-    height: auto;
+    /* width: 100%;
+    height: auto; */
 }
 
 #introducingMyself_info{
     flex-direction: column;
     justify-content: center;
+    /* background-color: red; */
 }
 
 #introducingMyself_photo{
@@ -132,23 +133,25 @@ footer p{
     justify-content: center;
     align-items: center;
     margin-bottom: 3rem;
+    /* background-color: yellow; */
+    
 }
 
 #introducingMyself_photo a{
     color: #ffffff;
 }
 
-#introducingMyself_photo img{
+/* #introducingMyself_photo img{
     width: 80%;
-}
+} */
 
 #introducingMyself_photo figcaption{
     margin-bottom: 3rem;
 }
 
-#aboutMe_content_photo img{
+/* #aboutMe_content_photo img{
     width: 80%;
-}
+} */
 
 #introducingMyself_info_socialMediaIcons{
     margin-bottom: 2rem;
@@ -1269,69 +1272,74 @@ nav{
 }
 
 /*Estilos del blog*/
-#blog_container{
+#blog_container, #blogPost_container{
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
     width: 100%;
-    /* background-color: purple; */
     padding: 0.5rem;
 }
 
-#blog_container p{
-    line-height: 1.8rem;
-}
-
-#blog_container h2{
-    text-align: left;
-    margin-bottom: 2rem;
-}
-
-#blog_container p, #blog_container li{
+#blog_container p, #blogPost_container p, #blog_container li{
     font-size: 1.6rem;
     line-height: 1.8rem;
 }
 
 #blog_credits{
-    margin-top: 1rem;
+    margin-top: 3rem;
 }
 
-#blog_container article li{
+#blog_credits p{
+    margin-bottom: 0.5rem;
+}
+
+#blog_container article li, #blogPost_container article li{
     margin-left: 2rem;
     font-weight: bold;
 }
 
-#blog_container article ul{
+#blog_container article ul, #blogPost_container article ul{
     margin: 1rem 0 2rem 0;
 }
 
-#blog_container section{
+#blogPost_container article ul{
+    font-size: 1.4rem;
+    margin-bottom: 3rem;
+}
+
+#blog_container section, #blogPost_container section{
     display: flex;
     flex-direction: column;
     width: 100%;
 }
 
-#blog_container section article{
+#blog_container section article, #blogPost_container section article{
     padding: 1rem;
     border: 2px solid #ccc;
     margin-bottom: 2rem;
     border-radius: 1rem;
 }
 
-#blog_container aside{
+#blog_container aside, #blogPost_container aside{
     width: 100%;
     padding: 1rem;
     border: 3px solid #ccc;
     border-radius: 1rem;
 }
 
-#blog_container h2{
+#blog_container h2, #blogPost_container h2{
     font-size: 1.6rem;
+    text-align: left;
+    margin-bottom: 2rem;
 }
 
-#blog_container h3{
+#blog_container h3, #blogPost_container h3{
     font-size: 1.4rem;
     margin-top: 2rem;
+}
+
+#blogPost_container a{
+    color: #000000;
 }
 
 .blog_image_container{
@@ -1348,8 +1356,6 @@ nav{
 .blog_image_container img{
     width: 100%;
 }
-
-
 
 #aside_blog ul li{
     margin-bottom: 1rem;
@@ -1370,6 +1376,12 @@ nav{
     display: none;
 }
 
+#main_image_1_medium, #main_image_2_medium{
+    display: none;
+}
 
+#main_image_1_small, #main_image_2_small{
+    display: block;
+}
 
 
