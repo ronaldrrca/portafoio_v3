@@ -20,7 +20,8 @@
             <h1>Servicios</h1>
             <div id="services_container">
                     <figure id="services_image">
-                        <img src="../assets/images/services-image.png" alt="imagen de programadores web trabajando en una pantalla gigante">
+                        <img id="services_image_small" src="../assets/images/diseñadores-web-trabajando-360x234p.webp" alt="imagen de diseñadores web trabajando en una pantalla gigante">
+                        <img id="services_image_medium" src="../assets/images/diseñadores-web-trabajando-399x259p.webp" alt="imagen de diseñadores web trabajando en una pantalla gigante">
                         <figcaption><a href="https://www.freepik.es/vectores/tecnologia" target="_blank">Vector de Tecnología creado por vectorjuice - www.freepik.es</a></figcaption>
                     </figure>
                     <div id="services_content">

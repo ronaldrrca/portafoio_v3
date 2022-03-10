@@ -91,15 +91,15 @@
     background-color: #ffffff;
 }
 
-#services_image img{
+/* #services_image img{
     width: 80%;
     box-shadow:white 1px 1px 5px;
-}
+} */
 
-#services_image{
+/* #services_image{
     width: 80%;
     
-}
+} */
 
 #skills_container{
     padding-left: 10rem;
@@ -156,10 +156,10 @@
     margin-right: 0;
 }
 
-.blog_image_container img{
+/* .blog_image_container img{
     width: 80%;
     
-}
+} */
 
 #blog_container h2, #blogPost_container h2{
     text-align: center;
@@ -172,6 +172,14 @@
 
 .image_credit a{
     color: #000000;
+}
+
+#online-store_small{
+    display: none;
+}
+
+#online-store_medium{
+    display: block;
 }
 
 

@@ -63,13 +63,13 @@ header{
     width: 70%;
  } 
 
- #services_image img{
+ /* #services_image img{
     width: 60%;
-}
+} */
 
-.blog_image_container img{
+/* .blog_image_container img{
     width: 100%;
-}
+} */
 
 .blog_image_container{
 
@@ -92,5 +92,13 @@ header{
 }
 
 #main_image_1_small, #main_image_2_small{
+    display: none;
+}
+
+#services_image_medium{
+    display: block;
+}
+
+#services_image_small{
     display: none;
 }

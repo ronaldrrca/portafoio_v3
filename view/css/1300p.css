@@ -30,9 +30,9 @@
      margin-bottom: 0;
 }
 
-#services_image img{
+/* #services_image img{
     width: 100%;
-}
+} */
 
 #services_container{
     flex-direction: row;
