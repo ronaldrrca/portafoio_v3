@@ -23,12 +23,11 @@
                         <figcaption><a href="https://www.freepik.es/vectores/digital" target="_blank">Vector de Digital creado por freepik - www.freepik.es</a></figcaption>
                 </figure>
                 <div id="introducingMyself_info">
-                    <div id="introducingMyself_info_socialMediaIcons">
-                        <a href="https://www.linkedin.com/in/ronald-rodríguez-campillo-66b12771" target="_blank"><img src="../assets/icons/linkedin_icon.svg" alt="icono de linkedin"></a>
-                        <a href="https://github.com/ronaldrrca" target="_blank"><img src="../assets/icons/github_icon.svg" alt="icono de github"></a>
-                        <a href="" target="_blank"><img src="../assets/icons/instagram_icon.svg" alt="icono de instagram"></a>
-                        <a href="https://twitter.com/ronaldrrca?s=03" target="_blank"><img src="../assets/icons/twitter_icon.svg" alt="icono de twitter"></a>
-                        <a href="" target="_blank"><img src="../assets/icons/facebook_icon.svg" alt="icono de facebook"></a>
+                    <div id="technology_icons">
+                        <img src="../assets/icons/html_orange_48dp.svg" alt="icono de html">
+                        <img src="../assets/icons/css_orange_48dp.svg" alt="icono de css">
+                        <img src="../assets/icons/javascript_orange_48dp.svg" alt="icono de javascript">
+                        <img src="../assets/icons/php_orange_48dp.svg" alt="icono de php">
                     </div>
                     <p id="introducingMyself_info_name">Ronald Rodríguez Campillo</p>
                     <p class="introducingMyself_info_text">Tecnólogo en Análisis y Desarrollo de Sistemas de Información</p>

@@ -20,11 +20,6 @@
     font-size: 0.8rem;
 }
 
-/* #introducingMyself_photo img{
-    width: 100%;
-    height: auto;
-} */
-
 #myProjects h1{
     text-align: center;
 }
@@ -42,17 +37,9 @@
     flex-direction: row;
 }
 
-/* #introducingMyself_photo img{
-    width: 21.4rem;
-} */
-
 #aboutMe_content_photo{
     margin-top: 0;
 }
-
-/* #aboutMe_content_photo img{
-    width: 30rem;
-} */
 
 #aboutMe_content_info{
     width: 45%;
@@ -90,16 +77,6 @@
     width: 45%;
     background-color: #ffffff;
 }
-
-/* #services_image img{
-    width: 80%;
-    box-shadow:white 1px 1px 5px;
-} */
-
-/* #services_image{
-    width: 80%;
-    
-} */
 
 #skills_container{
     padding-left: 10rem;
@@ -155,11 +132,6 @@
     align-items: center;
     margin-right: 0;
 }
-
-/* .blog_image_container img{
-    width: 80%;
-    
-} */
 
 #blog_container h2, #blogPost_container h2{
     text-align: center;

@@ -118,14 +118,11 @@ footer p{
 
 #introducingMyself_info, #introducingMyself_photo{
     display: flex;
-    /* width: 100%;
-    height: auto; */
 }
 
 #introducingMyself_info{
     flex-direction: column;
     justify-content: center;
-    /* background-color: red; */
 }
 
 #introducingMyself_photo{
@@ -133,32 +130,33 @@ footer p{
     justify-content: center;
     align-items: center;
     margin-bottom: 3rem;
-    /* background-color: yellow; */
-    
 }
 
 #introducingMyself_photo a{
     color: #ffffff;
 }
 
-/* #introducingMyself_photo img{
-    width: 80%;
-} */
-
 #introducingMyself_photo figcaption{
     margin-bottom: 3rem;
 }
 
-/* #aboutMe_content_photo img{
-    width: 80%;
-} */
-
-#introducingMyself_info_socialMediaIcons{
+#footer_socialMediaIcons, #technology_icons{
     margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-around;
 }
 
-#introducingMyself_info_socialMediaIcons img{
+#technology_icons{
+    justify-content: flex-start;
+    margin-bottom: 0;
+}
+
+#footer_socialMediaIcons img{
     width: 3rem;
+    margin: 0 1rem;
+}
+
+#technology_icons img{
     margin-right: 1rem;
 }
 
@@ -195,7 +193,6 @@ footer p{
     min-height: 10rem;
     padding: 0 1rem 5rem 1rem;
 }
-
 
 .briefcase_project h2{
     display: inline-block;
@@ -413,7 +410,6 @@ input[type="email"]
     margin-bottom: 2rem;
     padding-left: 0.5rem;
     font-size: 1.4rem;
-    /* background-color: var(#ff0); */
     border-top: 0;
 }
 
@@ -469,10 +465,6 @@ textarea{
     height: auto;
     background-color: #ffffff;
 }
-
-/* #services_image img{
-    width: 100%;
-} */
 
 #services_image{
     display: flex;
@@ -652,11 +644,6 @@ textarea{
    column-gap: 2rem;
    
 }
-
-/* .briefcase_project_images{
-    display: flex;
-    
-} */
 
 .briefcase_project h3, .briefcase_project p{
     color: #000000;
@@ -989,7 +976,6 @@ textarea{
 
 #dropDMX_submenu_item_1_3 > li{
     background-color: green;
-    /* color: #333; */
 }
 
 #menuItem_1{
@@ -1118,11 +1104,6 @@ nav{
     border-radius: 0.5rem;
 }
 
-#help_container img{
-    width: 80%;
-    height: auto;
-}
-
 #memoryGame_container p{
     font-size:  1.6rem;
     color: #ffffff;
@@ -1131,7 +1112,6 @@ nav{
 #box_memoryGame_container .front{
     display: none;
 }
-
 
 #box_memoryGame_container .back{
     background-color: #333;
@@ -1242,10 +1222,6 @@ nav{
 
 #help_container p{
     color: #000000;
-}
-
-#help_icon{
-    width: 3rem;
 }
 
 #data_game{
@@ -1360,10 +1336,6 @@ nav{
     float: left;
     
 }
-
-/* .blog_image_container img{
-    width: 100%;
-} */
 
 #aside_blog ul li{
     margin-bottom: 1rem;

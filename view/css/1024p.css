@@ -39,12 +39,6 @@ header{
     margin-right: 8rem;
 }
 
-
-
-/* #aboutMe_content_photo img{
-    width: 35rem;
-} */
-
 #introducingMyself_photo a{
     font-size: 1rem;
 }
@@ -62,14 +56,6 @@ header{
 #contact_form form{
     width: 70%;
  } 
-
- /* #services_image img{
-    width: 60%;
-} */
-
-/* .blog_image_container img{
-    width: 100%;
-} */
 
 .blog_image_container{
 
@@ -102,12 +88,5 @@ header{
 #services_image_small{
     display: none;
 }
-
-/* .briefcase_image_medium, .briefcase_image_small{
-cursor: pointer;
-} */
-
-
-
 
 
