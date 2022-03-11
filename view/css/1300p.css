@@ -151,3 +151,11 @@ hr{
     position: sticky;
     top: 80px;
 }  
+
+.briefcase_image_medium{
+    display: block;
+}
+
+.briefcase_image_small{
+    display: none;
+}

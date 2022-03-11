@@ -111,11 +111,11 @@
 }
 
 #briefcase_container figure{
-    grid-template-columns: repeat(3, 30%);
-    grid-template-rows: repeat(2, auto);
-    grid-gap: 3rem;
+
+    flex-direction: row;
     justify-content: center;
-}
+   
+ }
 
 .briefcase_project h3, #link_repo{
     width: fit-content;
@@ -182,5 +182,11 @@
     display: block;
 }
 
+.briefcase_image_medium{
+    display: none;
+}
 
+.briefcase_image_small{
+    display: block;
+}
 

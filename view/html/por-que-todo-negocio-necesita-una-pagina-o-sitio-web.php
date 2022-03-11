@@ -22,7 +22,8 @@
             <section>
                     <article>
                         <figure class="blog_image_container">
-                            <img src="../assets/images/blog-1.jpg" alt="imagen de tienda online">
+                            <img id="online-store_small" src="../assets/images/tienda-en-linea-114x76p.webp" alt="imagen de tienda online">
+                            <img id="online-store_medium" src="../assets/images/tienda-en-linea-264x176p.webp" alt="imagen de tienda online">
                             <figcaption class="image_credit"><a href='https://www.freepik.es/vectores/negocios' target="_blank">Vector de Negocios creado por redgreystock - www.freepik.es</a></figcaption>
                         </figure>
                         <p>La presencia online puede tener un impacto importante en el éxito del negocio, debido a que, en esta era digital los clientes suelen visitar los sitios web antes de 

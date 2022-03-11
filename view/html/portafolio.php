@@ -38,10 +38,13 @@
                             <a id="link_repo" href="https://github.com/ronaldrrca/app_innova_et" target="_blank">https://github.com/ronaldrrca/app_innova_et</a> -->
                         </div>
                         <h3>Imágenes</h3>
-                        <figure>
-                            <img src="../assets/images/img-app-innova-et-1.png" alt="imagen de aplicacion web">
-                            <img src="../assets/images/img-app-innova-et-2.png" alt="imagen de aplicacion web">
-                            <img src="../assets/images/img-app-innova-et-3.png" alt="imagen de aplicacion web">
+                        <figure class="briefcase_project_images">
+                            <img class="briefcase_image_medium" src="../assets/images/web-app-1-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium" src="../assets/images/web-app-2-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium" src="../assets/images/web-app-3-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small" src="../assets/images/web-app-1-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small" src="../assets/images/web-app-2-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small" src="../assets/images/web-app-3-360x209p.webp" alt="imagen de aplicacion web">
                         </figure>
                     </section>
                     <section id="project_4" class="briefcase_project">
@@ -62,10 +65,14 @@
                             <a id="link_repo" href="https://github.com/ronaldrrca/ecoculture_landingPage" target="_blank">https://github.com/ronaldrrca/ecoculture_landingPage</a>
                         </div>
                         <h3>Imágenes</h3>
-                        <figure>
-                            <img src="../assets/images/img-ecoculture-1.png" alt="imagen de landing page">
-                            <img src="../assets/images/img-ecoculture-2.png" alt="imagen de landing page">
-                            <img src="../assets/images/img-ecoculture-3.png" alt="imagen de landing page">
+                        <figure class="briefcase_project_images">
+                            <img class="briefcase_image_medium" src="../assets/images/lading-page-ecoculture-1-390x226.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_medium" src="../assets/images/lading-page-ecoculture-2-390x226.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_medium" src="../assets/images/lading-page-ecoculture-3-390x226.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small" src="../assets/images/lading-page-ecoculture-1-360x209.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small" src="../assets/images/lading-page-ecoculture-2-360x209.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small" src="../assets/images/lading-page-ecoculture-3-360x209.webp" alt="imagen de landing page">
+                            
                         </figure>
                     </section>
                     <section id="project_1" class="briefcase_project">
@@ -87,9 +94,12 @@
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
-                            <img src="../assets/images/img.memory-game-1.png" alt="imagen de juego de memoria">
-                            <img src="../assets/images/img.memory-game-2.png" alt="imagen de juego de memoria">
-                            <img src="../assets/images/img.memory-game-3.png" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_medium" src="../assets/images/juego-de-memoria-1-390x410p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_medium" src="../assets/images/juego-de-memoria-2-390x410p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_medium" src="../assets/images/juego-de-memoria-3-390x410p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_small" src="../assets/images/juego-de-memoria-1-360x342p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_small" src="../assets/images/juego-de-memoria-2-360x342p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_small" src="../assets/images/juego-de-memoria-3-360x342p.webp" alt="imagen de juego de memoria">
                         </figure>
                     </section>
             </div>

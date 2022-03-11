@@ -196,6 +196,7 @@ footer p{
     padding: 0 1rem 5rem 1rem;
 }
 
+
 .briefcase_project h2{
     display: inline-block;
     width: 100%;
@@ -642,17 +643,20 @@ textarea{
 }
 
 #briefcase_container figure{
-    width: 100%;
-    height: auto;
-    display: grid;
-    grid-template-columns: 100%;
-    grid-template-rows: repeat(3, auto);
-    grid-gap: 3rem;
+    
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+   align-items: center;
+   row-gap: 3rem;
+   column-gap: 2rem;
+   
 }
 
-.briefcase_project figure img{
-    width: 100%;
-}
+/* .briefcase_project_images{
+    display: flex;
+    
+} */
 
 .briefcase_project h3, .briefcase_project p{
     color: #000000;
@@ -701,6 +705,10 @@ textarea{
     width: 100%;
     padding: 0 1rem;
     min-height: 10rem;
+}
+
+#dropDownMenu_xamples{
+    padding-left: 1rem;
 }
 
 .dropDownMenu_xample_container{
@@ -918,7 +926,7 @@ textarea{
 #dropDownMenu_xamples p{
     font-size: 1.6rem;
     margin-bottom: 2rem;
-    padding: 0 1rem;
+    /* padding: 0 1rem; */
 }
 
 #dropDownMenu_xample_1{
@@ -1402,3 +1410,10 @@ nav{
     display: none;
 }
 
+.briefcase_image_medium{
+    display: block;
+}
+
+.briefcase_image_small{
+    display: none;
+}
