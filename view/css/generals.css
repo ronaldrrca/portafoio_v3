@@ -681,7 +681,7 @@ textarea{
     padding-left: 1rem;
 }
 
-#link_repo{
+.link_repo{
     display: inline-block;
     margin-bottom: 2rem;
 }

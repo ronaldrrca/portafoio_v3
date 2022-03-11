@@ -35,7 +35,7 @@
                         </p>
                         <div class="float_left">
                             <!-- <h3>Link del repositorio:</h3>
-                            <a id="link_repo" href="https://github.com/ronaldrrca/app_innova_et" target="_blank">https://github.com/ronaldrrca/app_innova_et</a> -->
+                            <a class="link_repo" href="https://github.com/ronaldrrca/app_innova_et" target="_blank">https://github.com/ronaldrrca/app_innova_et</a> -->
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
@@ -62,7 +62,7 @@
                         </p>
                         <div class="float_left">
                             <h3>Link del repositorio:</h3>
-                            <a id="link_repo" href="https://github.com/ronaldrrca/ecoculture_landingPage" target="_blank">https://github.com/ronaldrrca/ecoculture_landingPage</a>
+                            <a class="link_repo" href="https://github.com/ronaldrrca/ecoculture_landingPage" target="_blank">https://github.com/ronaldrrca/ecoculture_landingPage</a>
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
@@ -90,7 +90,7 @@
                         </p>
                         <div class="float_left">
                             <h3>Link del repositorio:</h3>
-                            <a id="link_repo" href="https://github.com/ronaldrrca/memory" target="_blank">https://github.com/ronaldrrca/memory</a>
+                            <a class="link_repo" href="https://github.com/ronaldrrca/memory" target="_blank">https://github.com/ronaldrrca/memory</a>
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
