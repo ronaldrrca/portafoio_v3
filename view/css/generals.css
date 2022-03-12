@@ -152,11 +152,14 @@ footer p{
 }
 
 #footer_socialMediaIcons img{
-    width: 3rem;
+    width: 4rem;
+    height: 3rem;
     margin: 0 1rem;
 }
 
 #technology_icons img{
+    width: 4.8rem;
+    height: 4.8rem;
     margin-right: 1rem;
 }
 
@@ -1356,6 +1359,26 @@ nav{
 
 .image_credit{
     display: none;
+}
+
+#main_image_1_small{
+    width: 36rem;
+    height: 24rem;
+}
+
+#main_image_1_medium{
+    width: 39.9rem;
+    height: 26.6rem;
+}
+
+#main_image_2_small{
+    width: 36rem;
+    height: 21.2rem;
+}
+
+#main_image_2_medium{
+    width: 39.9rem;
+    height: 23.5rem;
 }
 
 #main_image_1_medium, #main_image_2_medium{
