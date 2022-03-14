@@ -39,12 +39,12 @@
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
-                            <img class="briefcase_image_medium" src="../assets/images/web-app-1-390x226p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_medium" src="../assets/images/web-app-2-390x226p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_medium" src="../assets/images/web-app-3-390x226p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_small" src="../assets/images/web-app-1-360x209p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_small" src="../assets/images/web-app-2-360x209p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_small" src="../assets/images/web-app-3-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-1-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-2-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-3-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-1-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-2-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-3-360x209p.webp" alt="imagen de aplicacion web">
                         </figure>
                     </section>
                     <section id="project_4" class="briefcase_project">
@@ -66,12 +66,12 @@
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
-                            <img class="briefcase_image_medium" src="../assets/images/lading-page-ecoculture-1-390x226.webp" alt="imagen de landing page">
-                            <img class="briefcase_image_medium" src="../assets/images/lading-page-ecoculture-2-390x226.webp" alt="imagen de landing page">
-                            <img class="briefcase_image_medium" src="../assets/images/lading-page-ecoculture-3-390x226.webp" alt="imagen de landing page">
-                            <img class="briefcase_image_small" src="../assets/images/lading-page-ecoculture-1-360x209.webp" alt="imagen de landing page">
-                            <img class="briefcase_image_small" src="../assets/images/lading-page-ecoculture-2-360x209.webp" alt="imagen de landing page">
-                            <img class="briefcase_image_small" src="../assets/images/lading-page-ecoculture-3-360x209.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/lading-page-ecoculture-1-390x226.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/lading-page-ecoculture-2-390x226.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/lading-page-ecoculture-3-390x226.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lading-page-ecoculture-1-360x209.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lading-page-ecoculture-2-360x209.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lading-page-ecoculture-3-360x209.webp" alt="imagen de landing page">
                             
                         </figure>
                     </section>
@@ -94,12 +94,12 @@
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
-                            <img class="briefcase_image_medium" src="../assets/images/juego-de-memoria-1-390x410p.webp" alt="imagen de juego de memoria">
-                            <img class="briefcase_image_medium" src="../assets/images/juego-de-memoria-2-390x410p.webp" alt="imagen de juego de memoria">
-                            <img class="briefcase_image_medium" src="../assets/images/juego-de-memoria-3-390x410p.webp" alt="imagen de juego de memoria">
-                            <img class="briefcase_image_small" src="../assets/images/juego-de-memoria-1-360x342p.webp" alt="imagen de juego de memoria">
-                            <img class="briefcase_image_small" src="../assets/images/juego-de-memoria-2-360x342p.webp" alt="imagen de juego de memoria">
-                            <img class="briefcase_image_small" src="../assets/images/juego-de-memoria-3-360x342p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_medium briefcase_image_medium_square" src="../assets/images/juego-de-memoria-1-390x410p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_medium briefcase_image_medium_square" src="../assets/images/juego-de-memoria-2-390x410p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_medium briefcase_image_medium_square" src="../assets/images/juego-de-memoria-3-390x410p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_small briefcase_image_small_square" src="../assets/images/juego-de-memoria-1-360x342p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_small briefcase_image_small_square" src="../assets/images/juego-de-memoria-2-360x342p.webp" alt="imagen de juego de memoria">
+                            <img class="briefcase_image_small briefcase_image_small_square" src="../assets/images/juego-de-memoria-3-360x342p.webp" alt="imagen de juego de memoria">
                         </figure>
                     </section>
             </div>

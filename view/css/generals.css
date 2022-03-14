@@ -77,6 +77,7 @@ footer p{
 
 #menu_icon{
     width: 4.4rem;
+    height: 4.4rem;
 }
 
 #dropDown_menu{
@@ -235,6 +236,7 @@ footer p{
 
 .project img{
     width: 3rem;
+    height: 3rem;
     margin-bottom: 1rem;
 }
 
@@ -1411,4 +1413,24 @@ nav{
 
 .briefcase_image_small{
     display: none;
+}
+
+.briefcase_image_medium_landScape{
+    width: 39rem;
+    height: 22.6rem;
+}
+
+.briefcase_image_small_landScape{
+    width: 36rem;
+    height: 20.9rem;
+}
+
+.briefcase_image_medium_square{
+    width: 39rem;
+    height: 41rem;
+}
+
+.briefcase_image_small_square{
+    width: 36rem;
+    height: 34.2rem;
 }
