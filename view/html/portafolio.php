@@ -19,35 +19,36 @@
     <main>
             <h1>Portafolio</h1>
             <div id="briefcase_container">
-                    <section id="project_3" class="briefcase_project">
-                        <h2>App piloto Innova ET</h2>
+                    <section id="project_4" class="briefcase_project">
+                        <h2>Modelo sitio web 2</h2>
                         <div class="float_left">
                             <h3>Tipo:</h3>
-                            <p>Web App</p>
+                            <p>Página inicio de sitio web</p>
                         </div>
                         <h3>Descripción:</h3>
-                        <p>
-                            Web App privada para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado 
-                            de la empresa, con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. 
-                            Posterior al diagnóstico final, se genera un resultado comparativo entre los dos diagnósticos. Cuenta con control de 
-                            usuarios según el perfil, diseño y desarrollo responsivo (Adaptable a las pantallas de diferentes dispositivos), y la 
-                            base de datos fue creada en MySQL.
+                        <p>Modelo de la página de inicio de un sitio web para ofrecer productos, puede utilizarse para cualquier tipo de producto y adaptarse a las necesidades o requerimientos. Con imágenes muy livianas en formato webp, para optimizar el tiempo de carga de la página.         
                         </p>
                         <div class="float_left">
-                            <!-- <h3>Link del repositorio:</h3>
-                            <a class="link_repo" href="https://github.com/ronaldrrca/app_innova_et" target="_blank">https://github.com/ronaldrrca/app_innova_et</a> -->
+                            <h3>Visitar el modelo:</h3>
+                            <a class="link_repo" href="#" target="_blank">https://github.com/ronaldrrca/web-model-2</a>
+                        </div>
+                        <div class="float_left">
+                            <h3>Link del repositorio:</h3>
+                            <a class="link_repo" href="https://github.com/ronaldrrca/web-model-2" target="_blank">https://github.com/ronaldrrca/web-model-2</a>
                         </div>
                         <h3>Imágenes</h3>
                         <figure class="briefcase_project_images">
-                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-1-390x226p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-2-390x226p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-3-390x226p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-1-360x209p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-2-360x209p.webp" alt="imagen de aplicacion web">
-                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-3-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-model2-1-390x296.webp" alt="modelo sitio web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-model2-2-390x176.webp" alt="modelo sitio web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-model2-3-390x179.webp" alt="modelo sitio web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lading-page-ecoculture-1-360x209.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lading-page-ecoculture-2-360x209.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lading-page-ecoculture-3-360x209.webp" alt="imagen de landing page">
+                            
                         </figure>
                     </section>
-                    <section id="project_4" class="briefcase_project">
+
+                    <section id="project_2" class="briefcase_project">
                         <h2>Ecoculture Landing</h2>
                         <div class="float_left">
                             <h3>Tipo:</h3>
@@ -100,6 +101,35 @@
                             <img class="briefcase_image_small briefcase_image_small_square" src="../assets/images/juego-de-memoria-1-360x342p.webp" alt="imagen de juego de memoria">
                             <img class="briefcase_image_small briefcase_image_small_square" src="../assets/images/juego-de-memoria-2-360x342p.webp" alt="imagen de juego de memoria">
                             <img class="briefcase_image_small briefcase_image_small_square" src="../assets/images/juego-de-memoria-3-360x342p.webp" alt="imagen de juego de memoria">
+                        </figure>
+                    </section>
+
+                    <section id="project_3" class="briefcase_project">
+                        <h2>App piloto Innova ET</h2>
+                        <div class="float_left">
+                            <h3>Tipo:</h3>
+                            <p>Web App</p>
+                        </div>
+                        <h3>Descripción:</h3>
+                        <p>
+                            Web App privada para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado 
+                            de la empresa, con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. 
+                            Posterior al diagnóstico final, se genera un resultado comparativo entre los dos diagnósticos. Cuenta con control de 
+                            usuarios según el perfil, diseño y desarrollo responsivo (Adaptable a las pantallas de diferentes dispositivos), y la 
+                            base de datos fue creada en MySQL.
+                        </p>
+                        <div class="float_left">
+                            <!-- <h3>Link del repositorio:</h3>
+                            <a class="link_repo" href="https://github.com/ronaldrrca/app_innova_et" target="_blank">https://github.com/ronaldrrca/app_innova_et</a> -->
+                        </div>
+                        <h3>Imágenes</h3>
+                        <figure class="briefcase_project_images">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-1-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-2-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/web-app-3-390x226p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-1-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-2-360x209p.webp" alt="imagen de aplicacion web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/web-app-3-360x209p.webp" alt="imagen de aplicacion web">
                         </figure>
                     </section>
             </div>

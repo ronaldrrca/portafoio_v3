@@ -41,11 +41,10 @@
                 <div class="littleOrangeLine"></div>
                 <div id="projects">
                         <div class="project">
-                            <img src="../assets/icons/apps_white_24dp.svg" alt="icono de apps">
-                            <h3>App piloto Innova ET</h3>
+                            <img src="../assets/icons/public_orange_24dp.svg" alt="icono de planeta tierra">
+                            <h3>Modelo sitio web 2</h3>
                             <p>
-                                Web App privada para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado de la empresa,
-                                con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                                Modelo de la página de inicio de un sitio web para ofrecer productos, puede utilizarse para cualquier tipo de producto y adaptarse a las necesidades o requerimientos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
                         <div class="project">
@@ -63,7 +62,14 @@
                                 funciones porteriormente.<span><a class="see_more" href="portafolio.php">Ver más</a></span>
                             </p>
                         </div>
-                        
+                        <div class="project">
+                            <img src="../assets/icons/apps_white_24dp.svg" alt="icono de apps">
+                            <h3>App piloto Innova ET</h3>
+                            <p>
+                                Web App privada para diagnóstico de innovación empresarial, consta de dos diagnósticos que generan el resultado del estado de la empresa,
+                                con sus respectivos gráficos y recomendaciones establecidas previamente según los resultados obtenidos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
                 </div>
             </section>
             <section id="aboutMe">

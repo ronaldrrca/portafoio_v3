@@ -86,7 +86,8 @@ footer p{
     right: 0;
     display: none;
     width: 18rem;
-    background-color: #ff0000;
+    background-color: #ff6600;
+    border-radius: 5px;
 }
 
 #dropDown_menu a{
