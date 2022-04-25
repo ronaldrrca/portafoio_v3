@@ -42,6 +42,13 @@
                 <div id="projects">
                         <div class="project">
                             <img src="../assets/icons/public_orange_24dp.svg" alt="icono de planeta tierra">
+                            <h3>Lilitas web site</h3>
+                            <p>
+                                Sitio web estático que estoy desarrollando para un emprendimiento, en principio ofrecerán prendas de vestir para mujeres y posteriormente se ampliará a otros productos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>
+                            </p>
+                        </div>
+                        <div class="project">
+                            <img src="../assets/icons/public_orange_24dp.svg" alt="icono de planeta tierra">
                             <h3>Modelo sitio web 2</h3>
                             <p>
                                 Modelo de la página de inicio de un sitio web para ofrecer productos, puede utilizarse para cualquier tipo de producto y adaptarse a las necesidades o requerimientos. <span><a class="see_more" href="portafolio.php">Ver más</a></span>

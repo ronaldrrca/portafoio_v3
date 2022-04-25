@@ -20,6 +20,34 @@
             <h1>Portafolio</h1>
             <div id="briefcase_container">
                     <section id="project_4" class="briefcase_project">
+                        <h2>Lilitas web site</h2>
+                        <div class="float_left">
+                            <h3>Tipo:</h3>
+                            <p>Página de inicio y productos de sitio web</p>
+                        </div>
+                        <h3>Descripción:</h3>
+                        <p>Sitio web estático que estoy desarrollando para un emprendimiento, en principio ofrecerán prendas de vestir para mujeres y posteriormente se ampliará a otros productos.         
+                        </p>
+                        <div class="float_left">
+                            <h3>Visitar el modelo:</h3>
+                            <a class="link_repo" href="https://lilitas.ronaldweb.com/" target="_blank">https://lilitas.ronaldweb.com/</a>
+                        </div>
+                        <div class="float_left">
+                            <h3>Link del repositorio:</h3>
+                            <a class="link_repo" href="https://github.com/ronaldrrca/lilitas" target="_blank">https://github.com/ronaldrrca/lilitas</a>
+                        </div>
+                        <h3>Imágenes</h3>
+                        <figure class="briefcase_project_images">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/lilitas1-390x168p.webp" alt="modelo sitio web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/lilitas2-390x168p.webp" alt="modelo sitio web">
+                            <img class="briefcase_image_medium briefcase_image_medium_landScape" src="../assets/images/lilitas3-390x168p.webp" alt="modelo sitio web">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lilitas1-360x155p.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lilitas2-360x155p.webp" alt="imagen de landing page">
+                            <img class="briefcase_image_small briefcase_image_small_landScape" src="../assets/images/lilitas3-360x155p.webp" alt="imagen de landing page">
+                            
+                        </figure>
+                    </section> 
+                    <section id="project_4" class="briefcase_project">
                         <h2>Modelo sitio web 2</h2>
                         <div class="float_left">
                             <h3>Tipo:</h3>
@@ -30,7 +58,7 @@
                         </p>
                         <div class="float_left">
                             <h3>Visitar el modelo:</h3>
-                            <a class="link_repo" href="#" target="_blank">https://github.com/ronaldrrca/web-model-2</a>
+                            <a class="link_repo" href="https://modelo2.ronaldweb.com/" target="_blank">https://modelo2.ronaldweb.com/</a>
                         </div>
                         <div class="float_left">
                             <h3>Link del repositorio:</h3>
